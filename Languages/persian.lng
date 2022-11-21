@@ -205,7 +205,7 @@ Actual: %y bytes
 <target>پیکربندی انتخاب شده را فقط برای ویرایش باز کنید، بدون اینکه آن را اجرا کنید.</target>
 
 <source>Path to an alternate GlobalSettings.xml file.</source>
-<target>مسیر جایگزین فایل GlobalSettings.xml</target>
+<target>مسیر جایگزین فایل GlobalSettings.xml.</target>
 
 <source>Warning</source>
 <target>هشدار</target>
