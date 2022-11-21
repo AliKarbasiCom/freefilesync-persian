@@ -31,55 +31,55 @@ Actual: %y bytes
 <target>این عملکرد بین دستگاه‌های مختلف پشتیبانی نمی‌شود.</target>
 
 <source>Temporary access error:</source>
-<target>Temporary access error:</target>
+<target>خطای دسترسی موقت:</target>
 
 <source>Cannot move file %x to %y.</source>
-<target>Cannot move file %x to %y.</target>
+<target>امکان انتقال فایل %x به %y وجود ندارد.</target>
 
 <source>Cannot copy symbolic link %x to %y.</source>
-<target>Cannot copy symbolic link %x to %y.</target>
+<target>امکان کپی پیوند نمادین %x به %y وجود ندارد.</target>
 
 <source>The item %x is currently in use.</source>
-<target>The item %x is currently in use.</target>
+<target>فایل %x درحال استفاده شدن است.</target>
 
 <source>Cannot resolve symbolic link %x.</source>
-<target>Cannot resolve symbolic link %x.</target>
+<target>امکان حل کردن لینک نمادین %x وجود ندارد.</target>
 
 <source>Cannot read directory %x.</source>
-<target>Cannot read directory %x.</target>
+<target>امکان خواندن دایرکتوری %x وجود ندارد.</target>
 
 <source>Cannot write modification time of %x.</source>
-<target>Cannot write modification time of %x.</target>
+<target>امکان نوشتن زمان ویرایش فایل %x وجود ندارد.</target>
 
 <source>Cannot read file attributes of %x.</source>
-<target>Cannot read file attributes of %x.</target>
+<target>امکان خواندن ویژگی‌های فایل %x وجود ندارد.</target>
 
 <source>Cannot create directory %x.</source>
-<target>Cannot create directory %x.</target>
+<target>امکان ساخت دایرکتوری %x وجود ندارد.</target>
 
 <source>Cannot delete file %x.</source>
-<target>Cannot delete file %x.</target>
+<target>امکان حذف فایل %x وجود ندارد.</target>
 
 <source>Cannot delete directory %x.</source>
-<target>Cannot delete directory %x.</target>
+<target>امکان حذف %x وجود ندارد.</target>
 
 <source>Cannot determine final path for %x.</source>
-<target>Cannot determine final path for %x.</target>
+<target>نمی‌توان مسیر نهایی %x را مشخص کرد.</target>
 
 <source>Operation not supported by device.</source>
-<target>Operation not supported by device.</target>
+<target>این عملکرد توسط دستگاه شما پشتیبانی نمی‌شود.</target>
 
 <source>Unable to move %x to the recycle bin.</source>
-<target>Unable to move %x to the recycle bin.</target>
+<target>امکان انتقال فایل %x به سطل آشغال وجود ندارد.</target>
 
 <source>empty</source>
-<target>empty</target>
+<target>خالی</target>
 
 <source>Error code %x</source>
-<target>Error code %x</target>
+<target>خطای %x</target>
 
 <source>Authentication completed.</source>
-<target>Authentication completed.</target>
+<target>احراز هویت انجام شد.</target>
 
 <source>You may close this page now and continue with FreeFileSync.</source>
 <target>You may close this page now and continue with FreeFileSync.</target>
