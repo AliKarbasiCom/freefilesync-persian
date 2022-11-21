@@ -82,49 +82,49 @@ Actual: %y bytes
 <target>احراز هویت انجام شد.</target>
 
 <source>You may close this page now and continue with FreeFileSync.</source>
-<target>You may close this page now and continue with FreeFileSync.</target>
+<target>اکنون می توانید این صفحه را ببندید و با FreeFileSync ادامه دهید.</target>
 
 <source>Authentication failed.</source>
-<target>Authentication failed.</target>
+<target>احراز هویت ناموفق بود.</target>
 
 <source>Unable to connect to %x.</source>
-<target>Unable to connect to %x.</target>
+<target>امکان اتصال به %x وجود ندارد.</target>
 
 <source>Please set up a shorter time out for Google Drive.</source>
-<target>Please set up a shorter time out for Google Drive.</target>
+<target>لطفاً زمان کوتاه‌تری را برای Google Drive تنظیم کنید.</target>
 
 <source>
 <pluralform>1 sec</pluralform>
 <pluralform>%x sec</pluralform>
 </source>
 <target>
-<pluralform>1 sec</pluralform>
-<pluralform>%x sec</pluralform>
+<pluralform>1 ثانیه</pluralform>
+<pluralform>%x ثانیه</pluralform>
 </target>
 
 <source>Cannot find %x.</source>
-<target>Cannot find %x.</target>
+<target>فایل/مسیر %x یافت نشد.</target>
 
 <source>The name %x is used by more than one item in the folder.</source>
-<target>The name %x is used by more than one item in the folder.</target>
+<target>نام %x توسط بیش از یک مورد در پوشه استفاده می‌شود.</target>
 
 <source>Please add a connection to user account %x first.</source>
-<target>Please add a connection to user account %x first.</target>
+<target>لطفا ابتدا یک اتصال به حساب %x ایجاد کنید.</target>
 
 <source>File content is corrupted.</source>
-<target>File content is corrupted.</target>
+<target>محتوای فایل خراب است!</target>
 
 <source>Unsupported data format.</source>
-<target>Unsupported data format.</target>
+<target>فرمت داده پشتیبانی نمی‌شود!</target>
 
 <source>Version: %x</source>
-<target>Version: %x</target>
+<target>نسخه: %x</target>
 
 <source>Cannot read database file %x.</source>
-<target>Cannot read database file %x.</target>
+<target>امکان خواندن پایگاه داده فایل %x وجود ندارد.</target>
 
 <source>Cannot open file %x.</source>
-<target>Cannot open file %x.</target>
+<target>امکان باز کردن فایل %x وجود ندارد.</target>
 
 <source>The name %x is already used by another item.</source>
 <target>The name %x is already used by another item.</target>
