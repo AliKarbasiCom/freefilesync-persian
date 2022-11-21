@@ -112,10 +112,10 @@ Actual: %y bytes
 <target>لطفا ابتدا یک اتصال به حساب %x ایجاد کنید.</target>
 
 <source>File content is corrupted.</source>
-<target>محتوای فایل خراب است!</target>
+<target>محتوای فایل خراب است.</target>
 
 <source>Unsupported data format.</source>
-<target>فرمت داده پشتیبانی نمی‌شود!</target>
+<target>فرمت داده پشتیبانی نمی‌شود.</target>
 
 <source>Version: %x</source>
 <target>نسخه: %x</target>
@@ -199,7 +199,7 @@ Actual: %y bytes
 <target>هر تعداد از "ffs_gui" و/یا "ffs_batch" فایل های پیکربندی.</target>
 
 <source>Any number of alternative directory pairs for at most one config file.</source>
-<target>هر تعداد جفت دایرکتوری جایگزین برای حداکثر یک فایل پیکربندی است!</target>
+<target>هر تعداد جفت دایرکتوری جایگزین برای حداکثر یک فایل پیکربندی است.</target>
 
 <source>Open the selected configuration for editing only, without executing it.</source>
 <target>پیکربندی انتخاب شده را فقط برای ویرایش باز کنید، بدون اینکه آن را اجرا کنید.</target>
@@ -244,7 +244,7 @@ Actual: %y bytes
 <target>ورودی پایگاه داده با توجه به تنظیمات فعلی همگام نیست.</target>
 
 <source>The database entry is ambiguous.</source>
-<target>ورودی پایگاه داده مبهم است!</target>
+<target>ورودی پایگاه داده مبهم است.</target>
 
 <source>Setting directions for first synchronization: Old files will be overwritten with newer files.</source>
 <target>تنظیم مسیر برای اولین همگام‌سازی: فایل‌های قدیمی با فایل‌های جدیدتر رونویسی می‌شوند.</target>
@@ -373,7 +373,7 @@ Actual: %y bytes
 <target>درحال جستجو برای پوشه %x...</target>
 
 <source>Timeout while searching for folder %x.</source>
-<target>هنگام جستجوی پوشه %x زمان تمام شد!</target>
+<target>هنگام جستجوی پوشه %x زمان تمام شد.</target>
 
 <source>Cannot get process information.</source>
 <target>نمی‌توان اطلاعات فرآیند را دریافت کرد.</target>
