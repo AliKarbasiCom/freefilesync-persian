@@ -199,205 +199,205 @@ Actual: %y bytes
 <target>هر تعداد از "ffs_gui" و/یا "ffs_batch" فایل های پیکربندی.</target>
 
 <source>Any number of alternative directory pairs for at most one config file.</source>
-<target>Any number of alternative directory pairs for at most one config file.</target>
+<target>هر تعداد جفت دایرکتوری جایگزین برای حداکثر یک فایل پیکربندی است!</target>
 
 <source>Open the selected configuration for editing only, without executing it.</source>
-<target>Open the selected configuration for editing only, without executing it.</target>
+<target>پیکربندی انتخاب شده را فقط برای ویرایش باز کنید، بدون اینکه آن را اجرا کنید.</target>
 
 <source>Path to an alternate GlobalSettings.xml file.</source>
-<target>Path to an alternate GlobalSettings.xml file.</target>
+<target>مسیر جایگزین فایل GlobalSettings.xml</target>
 
 <source>Warning</source>
-<target>Warning</target>
+<target>هشدار</target>
 
 <source>Error</source>
-<target>Error</target>
+<target>خطا</target>
 
 <source>An exception occurred</source>
-<target>An exception occurred</target>
+<target>یک استثنا رخ داد</target>
 
 <source>A left and a right directory path are expected after %x.</source>
-<target>A left and a right directory path are expected after %x.</target>
+<target>بعد از %x یک مسیر دایرکتوری چپ و راست انتظار می‌رود.</target>
 
 <source>Cannot find file %x.</source>
-<target>Cannot find file %x.</target>
+<target>فایل %x یافت نشد.</target>
 
 <source>File %x does not contain a valid configuration.</source>
-<target>File %x does not contain a valid configuration.</target>
+<target>فایل %x دارای پیکربندی معتبری نیست.</target>
 
 <source>The config file must not contain settings at directory pair level when directories are set via command line.</source>
-<target>The config file must not contain settings at directory pair level when directories are set via command line.</target>
+<target>هنگام تنظیم دایرکتوری‌ها از طریق خط فرمان، فایل پیکربندی نباید دارای تنظیمات در سطح جفت دایرکتوری باشد.</target>
 
 <source>Directories cannot be set for more than one configuration file.</source>
-<target>Directories cannot be set for more than one configuration file.</target>
+<target>دایرکتوری‌ها را نمی‌توان برای بیش از یک فایل پیکربندی تنظیم کرد.</target>
 
 <source>Both sides have changed since last synchronization.</source>
-<target>Both sides have changed since last synchronisation.</target>
+<target>هر دو طرف از زمان آخرین همگام سازی تغییر کرده‌اند.</target>
 
 <source>Cannot determine sync-direction:</source>
-<target>Cannot determine sync-direction:</target>
+<target>جهت همگام سازی را نمی‌توان تعیین کرد:</target>
 
 <source>No change since last synchronization.</source>
-<target>No change since last synchronisation.</target>
+<target>هیچ تغییری از آخرین همگام‌سازی صورت نگرفته است.</target>
 
 <source>The database entry is not in sync considering current settings.</source>
-<target>The database entry is not in sync considering current settings.</target>
+<target>ورودی پایگاه داده با توجه به تنظیمات فعلی همگام نیست.</target>
 
 <source>The database entry is ambiguous.</source>
-<target>The database entry is ambiguous.</target>
+<target>ورودی پایگاه داده مبهم است!</target>
 
 <source>Setting directions for first synchronization: Old files will be overwritten with newer files.</source>
-<target>Setting directions for first synchronisation: Old files will be overwritten with newer files.</target>
+<target>تنظیم مسیر برای اولین همگام‌سازی: فایل‌های قدیمی با فایل‌های جدیدتر رونویسی می‌شوند.</target>
 
 <source>Calculating sync directions...</source>
-<target>Calculating sync directions...</target>
+<target>درحال محاسبه جهت همگام سازی...</target>
 
 <source>Creating file %x</source>
-<target>Creating file %x</target>
+<target>درحال ساخت فایل %x</target>
 
 <source>Creating folder %x</source>
-<target>Creating folder %x</target>
+<target>درحال ساخت پوشه %x</target>
 
 <source>Creating symbolic link %x</source>
-<target>Creating symbolic link %x</target>
+<target>درحال ساخت پیوند نمادین %x</target>
 
 <source>Moving file %x to the recycle bin</source>
-<target>Moving file %x to the recycle bin</target>
+<target>درحال انتقال فایل %x به سطل آشغال</target>
 
 <source>Moving folder %x to the recycle bin</source>
-<target>Moving folder %x to the recycle bin</target>
+<target>درحال انتقال پوشه %x به سطل آشغال</target>
 
 <source>Moving symbolic link %x to the recycle bin</source>
-<target>Moving symbolic link %x to the recycle bin</target>
+<target>درحال انتقال لینک نمادین %x به سطل آشغال</target>
 
 <source>Deleting file %x</source>
-<target>Deleting file %x</target>
+<target>درحال حذف فایل %x</target>
 
 <source>Deleting folder %x</source>
-<target>Deleting folder %x</target>
+<target>درحال حذف پوشه %x</target>
 
 <source>Deleting symbolic link %x</source>
-<target>Deleting symbolic link %x</target>
+<target>درحال حذف لینک نمادین %x</target>
 
 <source>Checking recycle bin availability for folder %x...</source>
-<target>Checking recycle bin availability for folder %x...</target>
+<target>بررسی در دسترس بودن سطل آشغال برای پوشه %x...</target>
 
 <source>The recycle bin is not supported by the following folders. Deleted or overwritten files will not be able to be restored:</source>
-<target>The recycle bin is not supported by the following folders. Deleted or overwritten files will not be able to be restored:</target>
+<target>انتقال به سطل آشغال توسط پوشه‌های زیر پشتیبانی نمی‌شود. فایل‌های حذف شده یا بازنویسی شده قابل بازیابی نیستند:</target>
 
 <source>Cannot find the following folders:</source>
-<target>Cannot find the following folders:</target>
+<target>امکان پیدا کردن پوشه‌های زیر وجود ندارد:</target>
 
 <source>The following folders do not yet exist:</source>
-<target>The following folders do not yet exist:</target>
+<target>پوشه‌های زیر هنوز وجود ندارند:</target>
 
 <source>The folders are created automatically when needed.</source>
-<target>The folders are created automatically when needed.</target>
+<target>پوشه‌ها در صورت نیاز به طور خودکار ایجاد می‌شوند.</target>
 
 <source>The following folder paths differ in case. Please use a single form in order to avoid duplicate accesses.</source>
-<target>The following folder paths differ in case. Please use a single form in order to avoid duplicate accesses.</target>
+<target>مسیرهای پوشه زیر دارای حروف متفاوت است. لطفاً از یک فرم واحد برای جلوگیری از دسترسی‌های تکراری استفاده کنید.</target>
 
 <source>Scanning:</source>
-<target>Scanning:</target>
+<target>درحال جستجو:</target>
 
 <source>Comparison finished:</source>
-<target>Comparison finished:</target>
+<target>مقایسه انجام شد:</target>
 
 <source>
 <pluralform>1 item found</pluralform>
 <pluralform>%x items found</pluralform>
 </source>
 <target>
-<pluralform>1 item found</pluralform>
-<pluralform>%x items found</pluralform>
+<pluralform>1 مورد یافت شد</pluralform>
+<pluralform>%x مورد یافت شد</pluralform>
 </target>
 
 <source>Time elapsed:</source>
-<target>Time elapsed:</target>
+<target>زمان سپری شده:</target>
 
 <source>File %x has an invalid date.</source>
-<target>File %x has an invalid date.</target>
+<target>فایل %x تاریخ نامعتبر دارد.</target>
 
 <source>Date:</source>
-<target>Date:</target>
+<target>تاریخ:</target>
 
 <source>Files have the same date but a different size.</source>
-<target>Files have the same date but a different size.</target>
+<target>فایل‌ها تاریخ یکسان اما اندازه متفاوتی دارند.</target>
 
 <source>Size:</source>
-<target>Size:</target>
+<target>حجم:</target>
 
 <source>Content comparison was skipped for excluded files.</source>
-<target>Content comparison was skipped for excluded files.</target>
+<target>از مقایسه محتوا برای فایل‌های حذف شده صرف نظر شد.</target>
 
 <source>Items differ in attributes only</source>
-<target>Items differ in attributes only</target>
+<target>موارد فقط در ویژگی‌ها متفاوت هستند</target>
 
 <source>Resolving symbolic link %x</source>
-<target>Resolving symbolic link %x</target>
+<target>حل پیوند نمادین %x</target>
 
 <source>Comparing content of files %x</source>
-<target>Comparing content of files %x</target>
+<target>درحال مقایسه محتوای فایل‌های %x</target>
 
 <source>Generating file list...</source>
-<target>Generating file list...</target>
+<target>درحال ایجاد لیست فایل‌ها...</target>
 
 <source>A folder input field is empty.</source>
-<target>A folder input field is empty.</target>
+<target>یک فیلد ورودی پوشه خالی است.</target>
 
 <source>The corresponding folder will be considered as empty.</source>
-<target>The corresponding folder will be considered as empty.</target>
+<target>پوشه مربوطه خالی در نظر گرفته می‌شود.</target>
 
 <source>Exclude:</source>
-<target>Exclude:</target>
+<target>مستثنی کردن:</target>
 
 <source>One base folder of a folder pair is contained in the other one.</source>
-<target>One base folder of a folder pair is contained in the other one.</target>
+<target>یک پوشه پایه از یک جفت پوشه در پوشه دیگر موجود است.</target>
 
 <source>The folder should be excluded from synchronization via filter.</source>
-<target>The folder should be excluded from synchronisation via filter.</target>
+<target>پوشه باید با استفاده از فیلتر، از همگام سازی حذف شود.</target>
 
 <source>Out of memory.</source>
-<target>Out of memory.</target>
+<target>حافظه کافی نیست.</target>
 
 <source>Database file %x does not yet exist.</source>
-<target>Database file %x does not yet exist.</target>
+<target>فایل پایگاه داده %x هنوز وجود ندارد.</target>
 
 <source>Loading file %x...</source>
-<target>Loading file %x...</target>
+<target>درحال بارگذاری فایل %x...</target>
 
 <source>Saving file %x...</source>
-<target>Saving file %x...</target>
+<target>درحال ذخیره فایل %x...</target>
 
 <source>Searching for folder %x...</source>
-<target>Searching for folder %x...</target>
+<target>درحال جستجو برای پوشه %x...</target>
 
 <source>Timeout while searching for folder %x.</source>
-<target>Time out while searching for folder %x.</target>
+<target>هنگام جستجوی پوشه %x زمان تمام شد!</target>
 
 <source>Cannot get process information.</source>
-<target>Cannot get process information.</target>
+<target>نمی‌توان اطلاعات فرآیند را دریافت کرد.</target>
 
 <source>Waiting while directory is in use:</source>
-<target>Waiting while directory is in use:</target>
+<target>در حال انتظار تا زمانی که دایرکتوری در حال استفاده شدن است:</target>
 
 <source>User name:</source>
-<target>User name:</target>
+<target>نام کاربری:</target>
 
 <source>Detecting abandoned lock...</source>
-<target>Detecting abandoned lock...</target>
+<target>تشخیص قفل‌های رها شده...</target>
 
 <source>Item exists on left side only</source>
-<target>Item exists on left side only</target>
+<target>مورد فقط در سمت چپ وجود دارد</target>
 
 <source>Item exists on right side only</source>
-<target>Item exists on right side only</target>
+<target>مورد فقط در سمت راست وجود دارد</target>
 
 <source>Left side is newer</source>
-<target>Left side is newer</target>
+<target>سمت چپ جدیدتر است</target>
 
 <source>Right side is newer</source>
-<target>Right side is newer</target>
+<target>سمت راست جدیدتر است</target>
 
 <source>Items have different content</source>
 <target>Items have different content</target>
