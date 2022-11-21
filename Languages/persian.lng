@@ -196,7 +196,7 @@ Actual: %y bytes
 <target>فایل پیکربندی جهانی:</target>
 
 <source>Any number of FreeFileSync "ffs_gui" and/or "ffs_batch" configuration files.</source>
-<target>هر تعداد از "ffs_gui" و/یا "ffs_batch" فایل های پیکربندی.</target>
+<target>هر تعداد از "ffs_gui" و/یا "ffs_batch" فایل های پیکربندی FreeFileSync.</target>
 
 <source>Any number of alternative directory pairs for at most one config file.</source>
 <target>هر تعداد جفت دایرکتوری جایگزین برای حداکثر یک فایل پیکربندی است.</target>
