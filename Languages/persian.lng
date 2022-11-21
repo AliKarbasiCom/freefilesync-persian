@@ -127,45 +127,45 @@ Actual: %y bytes
 <target>امکان باز کردن فایل %x وجود ندارد.</target>
 
 <source>The name %x is already used by another item.</source>
-<target>The name %x is already used by another item.</target>
+<target>نام %x قبلاً توسط یک مورد دیگر استفاده می‌شود.</target>
 
 <source>Cannot delete symbolic link %x.</source>
-<target>Cannot delete symbolic link %x.</target>
+<target>پیوند نمادین %x را نمی‌توان حذف کرد.</target>
 
 <source>Cannot copy file %x to %y.</source>
-<target>Cannot copy file %x to %y.</target>
+<target>امکان کپی کردن فایل %x به %y وجود ندارد.</target>
 
 <source>Cannot determine free disk space for %x.</source>
-<target>Cannot determine free disk space for %x.</target>
+<target>نمی‌توان فضای آزاد دیسک را برای %x تعیین کرد.</target>
 
 <source>Unable to disconnect from %x.</source>
-<target>Unable to disconnect from %x.</target>
+<target>امکان قطع ارتباط با %x وجود ندارد.</target>
 
 <source>Unable to access %x.</source>
-<target>Unable to access %x.</target>
+<target>دسترسی به %x وجود ندارد.</target>
 
 <source>Cannot open directory %x.</source>
-<target>Cannot open directory %x.</target>
+<target>امکان باز کردن دایرکتوری %x وجود ندارد.</target>
 
 <source>Cannot find device %x.</source>
-<target>Cannot find device %x.</target>
+<target>امکان پیدا کردن دستگاه %x وجود ندارد.</target>
 
 <source>Unsupported item type.</source>
-<target>Unsupported item type.</target>
+<target>این نوع پشتیبانی نمی‌شود.</target>
 
 <source>The server does not support authentication via %x.</source>
-<target>The server does not support authentication via %x.</target>
+<target>سرور از احراز هویت از طریق %x پشتیبانی نمی‌کند.</target>
 
 <source>Required:</source>
-<target>Required:</target>
+<target>اجباری:</target>
 
 <source>
 <pluralform>Operation timed out after 1 second.</pluralform>
 <pluralform>Operation timed out after %x seconds.</pluralform>
 </source>
 <target>
-<pluralform>Operation timed out after 1 second.</pluralform>
-<pluralform>Operation timed out after %x seconds.</pluralform>
+<pluralform>عملیات بعد از 1 ثانیه لغو شد.</pluralform>
+<pluralform>عملیات بعد از %x ثانیه لغو شد.</pluralform>
 </target>
 
 <source>
@@ -173,30 +173,30 @@ Actual: %y bytes
 <pluralform>Cannot wait on more than %x connections at a time.</pluralform>
 </source>
 <target>
-<pluralform>Cannot wait on more than 1 connection at a time.</pluralform>
-<pluralform>Cannot wait on more than %x connections at a time.</pluralform>
+<pluralform>امکان انتظار برای بیش از 1 اتصال وجود ندارد.</pluralform>
+<pluralform>امکان انتظار برای بیش از %x اتصال وجود ندارد.</pluralform>
 </target>
 
 <source>Failed to open SFTP channel number %x.</source>
-<target>Failed to open SFTP channel number %x.</target>
+<target>عملیات بازکردن کانال %x. SFTP وجود ندارد.</target>
 
 <source>Command line</source>
-<target>Command line</target>
+<target>خط فرمان</target>
 
 <source>Syntax:</source>
-<target>Syntax:</target>
+<target>سینتکس:</target>
 
 <source>config files:</source>
-<target>config files:</target>
+<target>فایل‌های پیکربندی:</target>
 
 <source>directory</source>
-<target>directory</target>
+<target>فهرست راهنما (دایرکتوری)</target>
 
 <source>global config file:</source>
-<target>global config file:</target>
+<target>فایل پیکربندی جهانی:</target>
 
 <source>Any number of FreeFileSync "ffs_gui" and/or "ffs_batch" configuration files.</source>
-<target>Any number of FreeFileSync "ffs_gui" and/or "ffs_batch" configuration files.</target>
+<target>هر تعداد از "ffs_gui" و/یا "ffs_batch" فایل های پیکربندی.</target>
 
 <source>Any number of alternative directory pairs for at most one config file.</source>
 <target>Any number of alternative directory pairs for at most one config file.</target>
