@@ -400,154 +400,154 @@ Actual: %y bytes
 <target>سمت راست جدیدتر است</target>
 
 <source>Items have different content</source>
-<target>Items have different content</target>
+<target>آیتم‌ها محتوای متفاوتی دارند</target>
 
 <source>Both sides are equal</source>
-<target>Both sides are equal</target>
+<target>هر دو طرف برابر هستند</target>
 
 <source>Conflict/item cannot be categorized</source>
-<target>Conflict/item cannot be categorised</target>
+<target>تضاد/مورد را نمی‌توان دسته‌بندی کرد</target>
 
 <source>Copy new item to left</source>
-<target>Copy new item to left</target>
+<target>کپی مورد جدید به سمت چپ</target>
 
 <source>Copy new item to right</source>
-<target>Copy new item to right</target>
+<target>کپی مورد جدید به سمت راست</target>
 
 <source>Delete left item</source>
-<target>Delete left item</target>
+<target>حذف مورد سمت چپ</target>
 
 <source>Delete right item</source>
-<target>Delete right item</target>
+<target>حذف مورد سمت راست</target>
 
 <source>Move file on left</source>
-<target>Move file on left</target>
+<target>انتقال فایل به سمت چپ</target>
 
 <source>Move file on right</source>
-<target>Move file on right</target>
+<target>انتقال فایل به سمت راست</target>
 
 <source>Update left item</source>
-<target>Update left item</target>
+<target>آپدیت مورد سمت چپ</target>
 
 <source>Update right item</source>
-<target>Update right item</target>
+<target>آپدیت مورد سمت راست</target>
 
 <source>Do nothing</source>
-<target>Do nothing</target>
+<target>هیچ کاری نکن</target>
 
 <source>Update attributes on left</source>
-<target>Update attributes on left</target>
+<target>آپدیت ویژگی‌ها در سمت چپ</target>
 
 <source>Update attributes on right</source>
-<target>Update attributes on right</target>
+<target>آپدیت ویژگی‌ها در سمت راست</target>
 
 <source>Cannot set directory locks for the following folders:</source>
-<target>Cannot set directory locks for the following folders:</target>
+<target>نمی‌توان قفل دایرکتوری را برای پوشه‌های زیر تنظیم کرد:</target>
 
 <source>
 <pluralform>1 thread</pluralform>
 <pluralform>%x threads</pluralform>
 </source>
 <target>
-<pluralform>1 thread</pluralform>
-<pluralform>%x threads</pluralform>
+<pluralform>1 رشته</pluralform>
+<pluralform>%x رشته</pluralform>
 </target>
 
 <source>Please run the 64-bit version of FreeFileSync to create shadow copies on this system.</source>
-<target>Please run the 64-bit version of FreeFileSync to create shadow copies on this system.</target>
+<target>لطفا از نسخه 64 بیتی FreeFileSync برای ایجاد کپی‌های سایه روی این سیستم استفاده کنید.</target>
 
 <source>The Volume Shadow Copy Service could not create a snapshot of %x.</source>
-<target>The Volume Shadow Copy Service could not create a snapshot of %x.</target>
+<target>سرویس کپی سایه امکان ساخت اسنپشات از %x را ندارد.</target>
 
 <source>Drive path %x not found at the start of file path %y.</source>
-<target>Drive path %x not found at the start of file path %y.</target>
+<target>مسیر %x در ابتدای مسیر فایل %y یافت نشد.</target>
 
 <source>%x/sec</source>
-<target>%x/sec</target>
+<target>%x/ثانیه</target>
 
 <source>%x items</source>
-<target>%x items</target>
+<target>%x مورد</target>
 
 <source>Multiple...</source>
-<target>Multiple...</target>
+<target>چندگانه...</target>
 
 <source>File time and size</source>
-<target>File time and size</target>
+<target>زمان و اندازه فایل</target>
 
 <source>File content</source>
-<target>File content</target>
+<target>محتوای فایل</target>
 
 <source>File size</source>
-<target>File size</target>
+<target>حجم فایل</target>
 
 <source>Two way</source>
-<target>Two way</target>
+<target>دو طرفه</target>
 
 <source>Mirror</source>
-<target>Mirror</target>
+<target>آینه</target>
 
 <source>Update</source>
-<target>Update</target>
+<target>به روز رسانی</target>
 
 <source>Custom</source>
-<target>Custom</target>
+<target>سفارشی</target>
 
 <source>Cannot write file attributes of %x.</source>
-<target>Cannot write file attributes of %x.</target>
+<target>امکان نوشتن ویژگی‌های فایل %x وجود ندارد.</target>
 
 <source>%x and %y have different content.</source>
-<target>%x and %y have different content.</target>
+<target>%x و %y محتوای یکسانی ندارند.</target>
 
 <source>Data verification error:</source>
-<target>Data verification error:</target>
+<target>خطای تایید اطلاعات:</target>
 
 <source>Moving file %x to %y</source>
-<target>Moving file %x to %y</target>
+<target>درحال انتقال فایل %x به %y</target>
 
 <source>Moving folder %x to %y</source>
-<target>Moving folder %x to %y</target>
+<target>درحال انتقال پوشه %x به %y</target>
 
 <source>Moving symbolic link %x to %y</source>
-<target>Moving symbolic link %x to %y</target>
+<target>درحال انتقال لینک نمادین %x به %y</target>
 
 <source>Updating file %x</source>
-<target>Updating file %x</target>
+<target>درحال به روز رسانی فایل %x</target>
 
 <source>Updating symbolic link %x</source>
-<target>Updating symbolic link %x</target>
+<target>درحال به روز رسانی لینک نمادین %x</target>
 
 <source>Verifying file %x</source>
-<target>Verifying file %x</target>
+<target>درحال تایید فایل %x</target>
 
 <source>Updating attributes of %x</source>
-<target>Updating attributes of %x</target>
+<target>درحال به روز رسانی ویژگی‌های %x</target>
 
 <source>Source item %x is not existing</source>
-<target>Source item %x is not existing</target>
+<target>مورد منبع %x یافت نشد</target>
 
 <source>Parent folder %x is not existing.</source>
-<target>Parent folder %x is not existing.</target>
+<target>پوشه اصلی %x یافت نشد.</target>
 
 <source>Creating a Volume Shadow Copy for %x...</source>
-<target>Creating a Volume Shadow Copy for %x...</target>
+<target>درحال ساخت کپی سایه از %x...</target>
 
 <source>Skipping folder pair because %x could not be accessed during comparison.</source>
-<target>Skipping folder pair because %x could not be accessed during comparison.</target>
+<target>رد شدن از جفت پوشه به دلیل عدم دسترسی به %x در طول مقایسه.</target>
 
 <source>Cannot find folder %x.</source>
-<target>Cannot find folder %x.</target>
+<target>پوشه %x یافت نشد.</target>
 
 <source>Base folder %x is already existing, but was not found earlier during comparison.</source>
-<target>Base folder %x is already existing, but was not found earlier during comparison.</target>
+<target>پوشه پایه %x در حال حاضر موجود است، اما قبل از آن در طول مقایسه یافت نشد.</target>
 
 <source>Target folder input field must not be empty.</source>
-<target>Target folder input field must not be empty.</target>
+<target>قسمت ورودی پوشه هدف نباید خالی باشد.</target>
 
 <source>Source folder %x not found.</source>
-<target>Source folder %x not found.</target>
+<target>پوشه منبع %x یافت نشد.</target>
 
 <source>Please enter a target folder for versioning.</source>
-<target>Please enter a target folder for versioning.</target>
+<target>لطفاً یک پوشه هدف برای نسخه سازی وارد کنید.</target>
 
 <source>The following items have unresolved conflicts and will not be synchronized:</source>
 <target>The following items have unresolved conflicts and will not be synchronised:</target>
