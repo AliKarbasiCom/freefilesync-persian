@@ -550,43 +550,43 @@ Actual: %y bytes
 <target>لطفاً یک پوشه هدف برای نسخه سازی وارد کنید.</target>
 
 <source>The following items have unresolved conflicts and will not be synchronized:</source>
-<target>The following items have unresolved conflicts and will not be synchronised:</target>
+<target>موارد زیر دارای تداخل حل نشده هستند و همگام سازی نخواهند شد:</target>
 
 <source>Folder pair:</source>
-<target>Folder pair:</target>
+<target>جفت پوشه:</target>
 
 <source>
 <pluralform>Showing %y of 1 item</pluralform>
 <pluralform>Showing %y of %x items</pluralform>
 </source>
 <target>
-<pluralform>Showing %y of 1 item</pluralform>
-<pluralform>Showing %y of %x items</pluralform>
+<pluralform>درحال نمایش %y از 1 گزینه</pluralform>
+<pluralform>درحال نمایش %y از %x گزینه</pluralform>
 </target>
 
 <source>The following folders are significantly different. Please check that the correct folders are selected for synchronization.</source>
-<target>The following folders are significantly different. Please check that the correct folders are selected for synchronisation.</target>
+<target>پوشه‌های زیر تفاوت قابل توجهی دارند. لطفاً بررسی کنید که پوشه‌های صحیح برای همگام‌سازی انتخاب شده باشند.</target>
 
 <source>Not enough free disk space available in:</source>
-<target>Not enough free disk space available in:</target>
+<target>فضای مورد نیاز در دیسک وجود ندارد:</target>
 
 <source>Available:</source>
-<target>Available:</target>
+<target>در دسترس:</target>
 
 <source>Some files will be synchronized as part of multiple base folders.</source>
-<target>Some files will be synchronised as part of multiple base folders.</target>
+<target>برخی از فایل‌ها به عنوان بخشی از چندین پوشه پایه همگام سازی می‌شوند.</target>
 
 <source>To avoid conflicts, set up exclude filters so that each updated file is included by only one base folder.</source>
-<target>To avoid conflicts, set up exclude filters so that each updated file is included by only one base folder.</target>
+<target>برای جلوگیری از تداخل، فیلترهای حذف را طوری تنظیم کنید که هر فایل به روز شده فقط توسط یک پوشه پایه گنجانده شود.</target>
 
 <source>Versioning folder:</source>
-<target>Versioning folder:</target>
+<target>پوشه نسخه سازی:</target>
 
 <source>Base folder:</source>
-<target>Base folder:</target>
+<target>پوشه پایه:</target>
 
 <source>The versioning folder is contained in a base folder.</source>
-<target>The versioning folder is contained in a base folder.</target>
+<target></target>
 
 <source>Synchronizing folder pair:</source>
 <target>Synchronising folder pair:</target>
