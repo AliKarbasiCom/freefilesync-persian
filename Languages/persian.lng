@@ -1,5 +1,5 @@
 <header>
-	<language>Persian (فارسی)</language>
+		<language>فارسی</language>
 	<translator>ALiKarbasiCom</translator>
 	<locale>fa</locale>
 	<image>flag_iran</image>
@@ -676,52 +676,52 @@ Actual: %y bytes
 <target>کل زمان:</target>
 
 <source>Errors and warnings:</source>
-<target>Errors and warnings:</target>
+<target>خطاها و هشدارها:</target>
 
 <source>Log file:</source>
-<target>Log file:</target>
+<target>فایل‌های لاگ:</target>
 
 <source>Cleaning up log files:</source>
-<target>Cleaning up log files:</target>
+<target>درحال بهینه سازی فایل‌های لاگ:</target>
 
 <source>
 <pluralform>1 day</pluralform>
 <pluralform>%x days</pluralform>
 </source>
 <target>
-<pluralform>1 day</pluralform>
-<pluralform>%x days</pluralform>
+<pluralform>1 روز</pluralform>
+<pluralform>%x روز</pluralform>
 </target>
 
 <source>Stopped</source>
-<target>Stopped</target>
+<target>متوقف شد</target>
 
 <source>Please enter a valid email address.</source>
-<target>Please enter a valid email address.</target>
+<target>لطفا یک ایمیل معتبر وارد کنید.</target>
 
 <source>Sending email notification to %x</source>
-<target>Sending email notification to %x</target>
+<target>ارسال ایمیل اطلاع رسانی به %x</target>
 
 <source>Requires FreeFileSync Donation Edition</source>
-<target>Requires FreeFileSync Donation Edition</target>
+<target>باید نسخه حمایتی FreeFileSync را خریداری کنید</target>
 
 <source>Cannot send notification email to %x.</source>
-<target>Cannot send notification email to %x.</target>
+<target>امکان ارسال ایمیل به %x وجود ندارد.</target>
 
 <source>Drag && drop</source>
-<target>Drag && drop</target>
+<target>کشیدن && رهاکردن</target>
 
 <source>Select a folder</source>
-<target>Select a folder</target>
+<target>یک پوشه انتخاب کنید</target>
 
 <source>&New</source>
-<target>&New</target>
+<target>&جدید</target>
 
 <source>&Open...</source>
-<target>&Open...</target>
+<target>&بازکردن...</target>
 
 <source>Save &as...</source>
-<target>Save &as...</target>
+<target>ذخیره &به عنوان...</target>
 
 <source>E&xit</source>
 <target>E&xit</target>
