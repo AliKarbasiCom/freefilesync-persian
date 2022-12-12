@@ -586,94 +586,94 @@ Actual: %y bytes
 <target>پوشه پایه:</target>
 
 <source>The versioning folder is contained in a base folder.</source>
-<target></target>
+<target>پوشه نسخه بندی در یک پوشه پایه قرار دارد.</target>
 
 <source>Synchronizing folder pair:</source>
-<target>Synchronising folder pair:</target>
+<target>همگام سازی جفت پوشه:</target>
 
 <source>Searching for old file versions:</source>
-<target>Searching for old file versions:</target>
+<target>جستجوی نسخه‌های قدیمی فایل:</target>
 
 <source>Removing old file versions:</source>
-<target>Removing old file versions:</target>
+<target>درحال حذف نسخه‌های قدیمی فایل:</target>
 
 <source>Unable to create time stamp for versioning:</source>
-<target>Unable to create time stamp for versioning:</target>
+<target>امکان ایجاد تایم استمپ برای نسخه سازی وجود ندارد:</target>
 
 <source>Fail-safe file copy</source>
-<target>Fail-safe file copy</target>
+<target>کپی فایل ایمن</target>
 
 <source>Enabled</source>
-<target>Enabled</target>
+<target>فعال</target>
 
 <source>Disabled</source>
-<target>Disabled</target>
+<target>غیرفعال</target>
 
 <source>Copy locked files</source>
-<target>Copy locked files</target>
+<target>کپی فایل‌های قفل شده</target>
 
 <source>Copy file access permissions</source>
-<target>Copy file access permissions</target>
+<target>کپی مجوزهای دسترسی به فایل</target>
 
 <source>File time tolerance</source>
-<target>File time tolerance</target>
+<target>تحمل زمان فایل</target>
 
 <source>Run with background priority</source>
-<target>Run with background priority</target>
+<target>اجرا با اولویت پس زمینه</target>
 
 <source>Lock directories during sync</source>
-<target>Lock directories during sync</target>
+<target>قفل کردن دایرکتوری‌ها در حین همگام سازی</target>
 
 <source>Verify copied files</source>
-<target>Verify copied files</target>
+<target>بررسی فایل‌های کپی شده</target>
 
 <source>Using non-default global settings:</source>
-<target>Using non-default global settings:</target>
+<target>استفاده از تنظیمات جهانی غیر پیش فرض:</target>
 
 <source>Show in Explorer</source>
-<target>Show in Explorer</target>
+<target>نمایش در اکسپلورر</target>
 
 <source>Show in file manager</source>
-<target>Show in file manager</target>
+<target>نمایش در فایل منیجر</target>
 
 <source>Reveal in Finder</source>
-<target>Reveal in Finder</target>
+<target>نمایش در فایندر</target>
 
 <source>Open with default application</source>
-<target>Open with default application</target>
+<target>بازکردن با برنامه پیش فرض</target>
 
 <source>Error parsing file %x, row %y, column %z.</source>
-<target>Error parsing file %x, row %y, column %z.</target>
+<target>خطا هنگام تجزیه فایل %x, ردیف %y, ستون %z.</target>
 
 <source>Services</source>
-<target>Services</target>
+<target>سرویس‌ها</target>
 
 <source>Show All</source>
-<target>Show All</target>
+<target>نمایش همه</target>
 
 <source>Hide Others</source>
-<target>Hide Others</target>
+<target>مخفی کردن سایر</target>
 
 <source>Hide %x</source>
-<target>Hide %x</target>
+<target>مخفی کردن %x</target>
 
 <source>Quit %x</source>
-<target>Quit %x</target>
+<target>خروج %x</target>
 
 <source>Errors:</source>
-<target>Errors:</target>
+<target>خطاها:</target>
 
 <source>Warnings:</source>
-<target>Warnings:</target>
+<target>هشدارها:</target>
 
 <source>Items processed:</source>
-<target>Elements processed:</target>
+<target>گزینه‌های پردازش شده:</target>
 
 <source>Items remaining:</source>
-<target>Elements remaining:</target>
+<target>گزینه‌های باقی مانده:</target>
 
 <source>Total time:</source>
-<target>Total time:</target>
+<target>کل زمان:</target>
 
 <source>Errors and warnings:</source>
 <target>Errors and warnings:</target>
