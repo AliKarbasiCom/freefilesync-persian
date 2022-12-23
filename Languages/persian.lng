@@ -1466,7 +1466,7 @@ This guarantees a consistent state even in case of a serious error.
 <target>پیکربندی‌هایی را که بیش از چند روز زیر اجرا نشده‌اند، برجسته کنید:</target>
 
 <source>FreeFileSync requires access rights to avoid "Operation not permitted" errors when synchronizing your data (e.g. Mail, Messages, Calendars).</source>
-<target>برنامه FreeFileSync برای جلوگیری از خطاهای «عملیات مجاز نیست» هنگام همگام‌سازی داده‌های شما (مانند ایمیل، پیام‌ها، تقویم‌ها) به حقوق دسترسی نیاز دارد..</target>
+<target>برنامه FreeFileSync برای جلوگیری از خطاهای «عملیات مجاز نیست» هنگام همگام‌سازی داده‌های شما (مانند ایمیل، پیام‌ها، تقویم‌ها) به حقوق دسترسی نیاز دارد.</target>
 
 <source>Locate the FreeFileSync app</source>
 <target>پیداکردن مسیر برنامه FreeFileSync</target>
@@ -1878,7 +1878,7 @@ This guarantees a consistent state even in case of a serious error.
 <pluralform>%x dialogs hidden</pluralform>
 </source>
 <target>
-<pluralform>یک دیالوگ پنهان است</pluralform>
+<pluralform>1 دیالوگ پنهان است</pluralform>
 <pluralform>%x دیالوگ پنهان هستند</pluralform>
 </target>
 
