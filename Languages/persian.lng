@@ -1,5 +1,5 @@
 <header>
-		<language>فارسی</language>
+	<language>فارسی</language>
 	<translator>ALiKarbasiCom</translator>
 	<locale>fa</locale>
 	<image>flag_iran</image>
@@ -724,58 +724,58 @@ Actual: %y bytes
 <target>ذخیره &به عنوان...</target>
 
 <source>E&xit</source>
-<target>E&xit</target>
+<target>خ&روج</target>
 
 <source>&File</source>
-<target>&File</target>
+<target>&فایل</target>
 
 <source>&View help</source>
-<target>&View help</target>
+<target>&نمایش راهنما</target>
 
 <source>&About</source>
-<target>&About</target>
+<target>&درباره ما</target>
 
 <source>&Help</source>
-<target>&Help</target>
+<target>&راهنما</target>
 
 <source>Usage:</source>
-<target>Usage:</target>
+<target>استفاده:</target>
 
 <source>Select folders to watch.</source>
-<target>Select folders to watch.</target>
+<target>پوشه‌ها را برای مشاهده انتخاب کنید.</target>
 
 <source>Enter a command line.</source>
-<target>Enter a command line.</target>
+<target>یک خط دستور وارد کنید.</target>
 
 <source>Press 'Start'.</source>
-<target>Press 'Start'.</target>
+<target>'شروع' را انتخاب کنید.</target>
 
 <source>To get started just import a "ffs_batch" file.</source>
-<target>To get started just import a "ffs_batch" file.</target>
+<target>برای شروع یک فایل "ffs_batch" را وارد کنید.</target>
 
 <source>Show examples</source>
-<target>Show examples</target>
+<target>نمایش نمونه</target>
 
 <source>Folders to watch:</source>
-<target>Folders to watch:</target>
+<target>پوشه‌های تحت نظر:</target>
 
 <source>Add folder</source>
-<target>Add folder</target>
+<target>اضافه کردن پوشه</target>
 
 <source>Remove folder</source>
-<target>Remove folder</target>
+<target>حذف پوشه</target>
 
 <source>Browse</source>
-<target>Browse</target>
+<target>مرورکردن</target>
 
 <source>Minimum idle time (in seconds):</source>
-<target>Minimum idle time (in seconds):</target>
+<target>حداقل زمان بیکاری (ثانیه):</target>
 
 <source>Idle time between last detected change and execution of command</source>
-<target>Idle time between last detected change and execution of command</target>
+<target>زمان بیکاری بین آخرین تغییر شناسایی شده و اجرای فرمان</target>
 
 <source>Command line:</source>
-<target>Command line:</target>
+<target>خط فرمان:</target>
 
 <source>
 The command is triggered if:
@@ -783,397 +783,397 @@ The command is triggered if:
 - new folders arrive (e.g. USB stick insert)
 </source>
 <target>
-The command is triggered if:
-- files or subfolders change
-- new folders arrive (e.g. USB stick insert)
+دستور در این زمان اجرا می‌شود:
+- فایل‌ها یا زیر پوشه‌ها تغییر کنند
+- پوشه جدید اضافه شود (مثال: نصب فلش)
 </target>
 
 <source>Start</source>
-<target>Start</target>
+<target>شروع</target>
 
 <source>About</source>
-<target>About</target>
+<target>درباره</target>
 
 <source>All files</source>
-<target>All files</target>
+<target>همه فایل‌ها</target>
 
 <source>Automated Synchronization</source>
-<target>Automated Synchronisation</target>
+<target>همگام سازی خودکار</target>
 
 <source>The %x protocol does not support directory monitoring:</source>
-<target>The %x protocol does not support directory monitoring:</target>
+<target>پروتکل %x نظارت دایرکتوری را پشتیبانی نمی‌کند:</target>
 
 <source>Directory monitoring active</source>
-<target>Directory monitoring active</target>
+<target>نظارت دایرکتوری فعال است</target>
 
 <source>Waiting until directory is available:</source>
-<target>Waiting until directory is available:</target>
+<target>در انتظار دایرکتوری:</target>
 
 <source>&Configure</source>
-<target>&Configure</target>
+<target>&پیکربندی</target>
 
 <source>&Show error message</source>
-<target>&Show error message</target>
+<target>&نمایش پیام خطا</target>
 
 <source>&Quit</source>
-<target>&Quit</target>
+<target>&خروج</target>
 
 <source>Command %x failed.</source>
-<target>Command %x failed.</target>
+<target>دستور %x اجرا نشد.</target>
 
 <source>Exit code %x</source>
-<target>Exit code %x</target>
+<target>کد خروج %x</target>
 
 <source>&Retry</source>
-<target>&Retry</target>
+<target>&تلاش مجدد</target>
 
 <source>Completed successfully</source>
-<target>Completed successfully</target>
+<target>با موفقیت تکمیل شد</target>
 
 <source>Completed with warnings</source>
-<target>Completed with warnings</target>
+<target>با اخطار تکمیل شد</target>
 
 <source>Completed with errors</source>
-<target>Completed with errors</target>
+<target>با خطا تکمیل شد</target>
 
 <source>Executing command:</source>
-<target>Executing command:</target>
+<target>درحال اجرای دستور:</target>
 
 <source>
 <pluralform>1 byte</pluralform>
 <pluralform>%x bytes</pluralform>
 </source>
 <target>
-<pluralform>1 byte</pluralform>
-<pluralform>%x bytes</pluralform>
+<pluralform>1 بایت</pluralform>
+<pluralform>%x بایت</pluralform>
 </target>
 
 <source>%x MB</source>
-<target>%x MB</target>
+<target>%x مگابایت</target>
 
 <source>%x KB</source>
-<target>%x KB</target>
+<target>%x کیلوبایت</target>
 
 <source>%x GB</source>
-<target>%x GB</target>
+<target>%x گیگابایت</target>
 
 <source>Loading...</source>
-<target>Loading...</target>
+<target>بارگذاری...</target>
 
 <source>Scanning...</source>
-<target>Scanning...</target>
+<target>درحال اسکن...</target>
 
 <source>configuration file</source>
-<target>configuration file</target>
+<target>فایل پیکربندی</target>
 
 <source>System: Sleep</source>
-<target>System: Sleep</target>
+<target>سیستم: خواب</target>
 
 <source>System: Shut down</source>
-<target>System: Shut down</target>
+<target>سیستم: خاموش</target>
 
 <source>Nothing to synchronize</source>
-<target>Nothing to synchronise</target>
+<target>چیزی برای همگام سازی وجود ندارد</target>
 
 <source>You can switch to FreeFileSync's main window to resolve this issue.</source>
-<target>You can switch to FreeFileSync's main window to resolve this issue.</target>
+<target>به صفحه اصلی FreeFileSync بروید و مشکل را حل کنید.</target>
 
 <source>&Don't show this warning again</source>
-<target>&Don't show this warning again</target>
+<target>&این هشدار را دوباره نمایش نده</target>
 
 <source>&Ignore</source>
-<target>&Ignore</target>
+<target>&رد کردن</target>
 
 <source>&Switch</source>
-<target>&Switch</target>
+<target>&تعویض</target>
 
 <source>Switching to FreeFileSync's main window</source>
-<target>Switching to FreeFileSync's main window</target>
+<target>درحال انتقال به صفحه اصلی FreeFileSync</target>
 
 <source>Automatic retry</source>
-<target>Automatic retry</target>
+<target>سعی مجدد خودکار</target>
 
 <source>Ignore &all</source>
-<target>Ignore &all</target>
+<target>رد کردن &همه</target>
 
 <source>Retrying operation...</source>
-<target>Retrying operation...</target>
+<target>تلاش مجدد عملیات...</target>
 
 <source>Last session</source>
-<target>Last session</target>
+<target>آخرین جلسه</target>
 
 <source>Today</source>
-<target>Today</target>
+<target>امروز</target>
 
 <source>Name</source>
-<target>Name</target>
+<target>نام</target>
 
 <source>Last sync</source>
-<target>Last sync</target>
+<target>آخرین همگام سازی</target>
 
 <source>Log</source>
-<target>Log</target>
+<target>لاگ</target>
 
 <source>Folder</source>
-<target>Folder</target>
+<target>پوشه</target>
 
 <source>Symlink</source>
-<target>Symlink</target>
+<target>پیوند نمادین</target>
 
 <source>Item name</source>
-<target>Item name</target>
+<target>نام آیتم</target>
 
 <source>Relative path</source>
-<target>Relative path</target>
+<target>مسیر نسبی</target>
 
 <source>Full path</source>
-<target>Full path</target>
+<target>مسیر کامل</target>
 
 <source>Size</source>
-<target>Size</target>
+<target>حجم</target>
 
 <source>Date</source>
-<target>Date</target>
+<target>تاریخ</target>
 
 <source>Extension</source>
-<target>Extension</target>
+<target>افزونه</target>
 
 <source>Item not existing</source>
-<target>Item not existing</target>
+<target>آیتم وجود ندارد</target>
 
 <source>Difference</source>
-<target>Difference</target>
+<target>تفاوت</target>
 
 <source>Action</source>
-<target>Action</target>
+<target>عمل</target>
 
 <source>Local comparison settings</source>
-<target>Local comparison settings</target>
+<target>تنظیمات مقایسه محلی</target>
 
 <source>Local synchronization settings</source>
-<target>Local synchronisation settings</target>
+<target>تنظیمات همگام سازی محلی</target>
 
 <source>Local filter</source>
-<target>Local filter</target>
+<target>فیلتر محلی</target>
 
 <source>Active</source>
-<target>Active</target>
+<target>فعال</target>
 
 <source>None</source>
-<target>None</target>
+<target>هیچ</target>
 
 <source>Remove local settings</source>
-<target>Remove local settings</target>
+<target>حذف تنظیمات محلی</target>
 
 <source>Clear local filter</source>
-<target>Clear local filter</target>
+<target>پاک کردن فیلترهای محلی</target>
 
 <source>Copy</source>
-<target>Copy</target>
+<target>کپی</target>
 
 <source>Paste</source>
-<target>Paste</target>
+<target>چسباندن</target>
 
 <source>The selected folder %x cannot be used with FreeFileSync.</source>
-<target>The selected folder %x cannot be used with FreeFileSync.</target>
+<target>امکان استفاده از پوشه %x با FreeFileSync وجود ندارد.</target>
 
 <source>Please select a folder on a local file system, network or an MTP device.</source>
-<target>Please select a folder on a local file system, network or an MTP device.</target>
+<target>لطفاً یک پوشه را در یک سیستم فایل محلی، شبکه یا دستگاه MTP انتخاب کنید.</target>
 
 <source>&Save</source>
-<target>&Save</target>
+<target>&ذخیره</target>
 
 <source>Save as &batch job...</source>
-<target>Save as &batch job...</target>
+<target>ذخیره به عنوان &کار دسته‌ای...</target>
 
 <source>Show &log</source>
-<target>Show &log</target>
+<target>نمایش &لاگ</target>
 
 <source>Start &comparison</source>
-<target>Start &comparison</target>
+<target>شروع &مقایسه</target>
 
 <source>C&omparison settings</source>
-<target>C&omparison settings</target>
+<target>تنظیمات م&قایسه</target>
 
 <source>&Filter settings</source>
-<target>&Filter settings</target>
+<target>تنظیمات &فیلتر</target>
 
 <source>S&ynchronization settings</source>
-<target>S&ynchronization settings</target>
+<target>تنظیمات ه&مگام سازی</target>
 
 <source>Start &synchronization</source>
-<target>Start &synchronisation</target>
+<target>شروع &همگام سازی</target>
 
 <source>&Actions</source>
-<target>&Actions</target>
+<target>&عملیات</target>
 
 <source>&Preferences</source>
-<target>&Preferences</target>
+<target>&اولویت ها</target>
 
 <source>&Language</source>
-<target>&Language</target>
+<target>&زبان</target>
 
 <source>&Find...</source>
-<target>&Find...</target>
+<target>&پیدا کردن...</target>
 
 <source>&Export file list</source>
-<target>&Export file list</target>
+<target>&خروجی گرفتن از لیست فایل‌ها</target>
 
 <source>&Reset layout</source>
-<target>&Reset layout</target>
+<target>&تنظیم مجدد طرح</target>
 
 <source>&Tools</source>
-<target>&Tools</target>
+<target>&ابزارها</target>
 
 <source>&Check for updates now</source>
-<target>&Check for updates now</target>
+<target>&بررسی نسخه جدید</target>
 
 <source>Check &automatically once a week</source>
-<target>Check &automatically once a week</target>
+<target>بررسی &خودکار هر هفته یکبار</target>
 
 <source>Cancel</source>
-<target>Cancel</target>
+<target>لغو</target>
 
 <source>Compare</source>
 <target>مقایسه</target>
 
 <source>Synchronize</source>
-<target>Synchronise</target>
+<target>همگام سازی</target>
 
 <source>Add folder pair</source>
-<target>Add folder pair</target>
+<target>افزودن جفت پوشه</target>
 
 <source>Remove folder pair</source>
-<target>Remove folder pair</target>
+<target>حذف جفت پوشه</target>
 
 <source>Access online storage</source>
-<target>Access online storage</target>
+<target>دسترسی به فضای ذخیره سازی آنلاین</target>
 
 <source>Close search bar</source>
-<target>Close search bar</target>
+<target>بستن جستجو</target>
 
 <source>Find:</source>
-<target>Find:</target>
+<target>یافتن:</target>
 
 <source>Match case</source>
-<target>Match case</target>
+<target>تطابق موارد</target>
 
 <source>Processed:</source>
-<target>Processed:</target>
+<target>پردازش شده:</target>
 
 <source>Remaining:</source>
-<target>Remaining:</target>
+<target>باقی مانده:</target>
 
 <source>New</source>
-<target>New</target>
+<target>جدید</target>
 
 <source>Open...</source>
-<target>Open...</target>
+<target>باز کردن...</target>
 
 <source>Save</source>
-<target>Save</target>
+<target>دخیره</target>
 
 <source>Save as...</source>
-<target>Save as...</target>
+<target>ذخیره به عنوان...</target>
 
 <source>Statistics:</source>
-<target>Statistics:</target>
+<target>آمار:</target>
 
 <source>Number of files and folders that will be deleted</source>
-<target>Number of files and folders that will be deleted</target>
+<target>تعداد فایل‌ها و پوشه‌هایی که حذف خواهند شد</target>
 
 <source>Number of files that will be updated</source>
-<target>Number of files that will be updated</target>
+<target>تعداد فایل‌هایی که به روز خواهند شد</target>
 
 <source>Number of files and folders that will be created</source>
-<target>Number of files and folders that will be created</target>
+<target>تعداد فایل‌ها و پوشه‌هایی که ایجاد خواهند شد</target>
 
 <source>Total bytes to copy</source>
-<target>Total bytes to copy</target>
+<target>کل حجم (بایت) برای کپی کردن</target>
 
 <source>Arrange folder pair</source>
-<target>Arrange folder pair</target>
+<target>مرتب کردن جفت پوشه</target>
 
 <source>Main settings:</source>
-<target>Main settings:</target>
+<target>تنظیمات اصلی:</target>
 
 <source>Use local settings:</source>
-<target>Use local settings:</target>
+<target>استفاده از تنظیمات محلی:</target>
 
 <source>Select a variant:</source>
-<target>Select a variant:</target>
+<target>یک گونه را انتخاب کنید:</target>
 
 <source>Include &symbolic links:</source>
-<target>Include &symbolic links:</target>
+<target>شامل لینک‌های &نمادین:</target>
 
 <source>&Follow</source>
-<target>&Follow</target>
+<target>&دنبال کردن</target>
 
 <source>&Direct</source>
-<target>&Direct</target>
+<target>&مستقیم</target>
 
 <source>More information</source>
-<target>More information</target>
+<target>اطلاعات بیشتر</target>
 
 <source>&Ignore time shift [hh:mm]</source>
-<target>&Ignore time shift [hh:mm]</target>
+<target>&صرف نظر از تغییر زمان [hh:mm]</target>
 
 <source>List of file time offsets to ignore</source>
-<target>List of file time offsets to ignore</target>
+<target>فهرست تعدیل‌های زمان فایل برای نادیده گرفتن</target>
 
 <source>Example:</source>
-<target>Example:</target>
+<target>مثال:</target>
 
 <source>Handle daylight saving time</source>
-<target>Handle daylight saving time</target>
+<target>زمان تابستان را مدیریت کنید</target>
 
 <source>Ignore errors</source>
-<target>Ignore errors</target>
+<target>نادیده گرفتن خطاها</target>
 
 <source>Retry count:</source>
-<target>Retry count:</target>
+<target>تعداد تلاش مجدد:</target>
 
 <source>Delay (in seconds):</source>
-<target>Delay (in seconds):</target>
+<target>تاخیر (به ثانیه):</target>
 
 <source>Performance improvements:</source>
-<target>Performance improvements:</target>
+<target>بهبود عملکرد:</target>
 
 <source>Parallel file operations:</source>
-<target>Parallel file operations:</target>
+<target>عملیات فایل موازی:</target>
 
 <source>How to get best performance?</source>
-<target>How to get best performance?</target>
+<target>چگونه بهترین عملکرد را بدست آوریم?</target>
 
 <source>Local settings:</source>
-<target>Local settings:</target>
+<target>تنظیمات محلی:</target>
 
 <source>Include:</source>
-<target>Include:</target>
+<target>شامل:</target>
 
 <source>File size:</source>
-<target>File size:</target>
+<target>حجم فایل:</target>
 
 <source>Minimum:</source>
-<target>Minimum:</target>
+<target>حداقل:</target>
 
 <source>Maximum:</source>
-<target>Maximum:</target>
+<target>حداکثر:</target>
 
 <source>Time span:</source>
-<target>Time span:</target>
+<target>مدت زمان:</target>
 
 <source>Select filter rules to exclude certain files from synchronization. Enter file paths relative to their corresponding folder pair.</source>
-<target>Select filter rules to exclude certain files from synchronisation. Enter file paths relative to their corresponding folder pair.</target>
+<target>قوانین فیلتر را برای حذف فایل‌های خاص از همگام‌سازی انتخاب کنید. مسیرهای فایل را نسبت به جفت پوشه مربوطه آنها وارد کنید.</target>
 
 <source>&Default</source>
-<target>&Default</target>
+<target>&پیشفرض</target>
 
 <source>C&lear</source>
-<target>C&lear</target>
+<target>پ&اک کردن</target>
 
 <source>Detect moved files</source>
-<target>Detect moved files</target>
+<target>شناسایی فایل‌های منتقل شده</target>
 
 <source>
 - Not supported by all file systems
