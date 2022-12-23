@@ -1328,259 +1328,259 @@ The command is triggered if:
 <target>توقف</target>
 
 <source>Create a batch file for unattended synchronization. To start, double-click this file or schedule in a task planner: %x</source>
-<target>Create a batch file for unattended synchronisation. To start, double-click this file or schedule in a task planner: %x</target>
+<target>یک فایل دسته‌ای برای همگام سازی بدون نظارت ایجاد کنید. برای شروع، روی این فایل دوبار کلیک کنید یا در برنامه‌ریزی کار برنامه‌ریزی کنید: %x</target>
 
 <source>Progress dialog:</source>
-<target>Progress dialog:</target>
+<target>پنجره پیشرفت:</target>
 
 <source>Run minimized</source>
-<target>Run minimised</target>
+<target>اجرا به صورت کوچک شده</target>
 
 <source>Show pop-up on errors or warnings</source>
-<target>Show pop-up on errors or warnings</target>
+<target>نمایش پاپ آپ در مورد خطاها یا هشدارها</target>
 
 <source>&Cancel</source>
-<target>&Cancel</target>
+<target>&لغو</target>
 
 <source>Stop synchronization at first error</source>
-<target>Stop synchronisation at first error</target>
+<target>در اولین خطا همگام سازی را متوقف کن</target>
 
 <source>How can I schedule a batch job?</source>
-<target>How can I schedule a batch job?</target>
+<target>چگونه می‌توانم یک کار دسته جمعی را برنامه ریزی کنم?</target>
 
 <source>&Keep relative paths</source>
-<target>&Keep relative paths</target>
+<target>&مسیرهای نسبی را حفظ کن</target>
 
 <source>&Overwrite existing files</source>
-<target>&Overwrite existing files</target>
+<target>&بازنویسی فایل های موجود</target>
 
 <source>The following settings are used for all synchronization jobs.</source>
-<target>The following settings are used for all synchronisation jobs.</target>
+<target>تنظیمات زیر برای همه کارهای همگام سازی استفاده می‌شود.</target>
 
 <source>
 Copy to a temporary file (*.ffs_tmp) before overwriting target.
 This guarantees a consistent state even in case of a serious error.
 </source>
 <target>
-Copy to a temporary file (*.ffs_tmp) before overwriting target.
-This guarantees a consistent state even in case of a serious error.
+قبل از بازنویسی هدف، در یک فایل موقت (*.ffs_tmp) کپی کنید.
+این یک حالت ثابت را حتی در صورت خطای جدی تضمین می کند.
 </target>
 
 <source>recommended</source>
-<target>recommended</target>
+<target>پیشنهادی</target>
 
 <source>Copy shared or locked files using the Volume Shadow Copy Service.</source>
-<target>Copy shared or locked files using the Volume Shadow Copy Service.</target>
+<target>فایل های به اشتراک گذاشته شده یا قفل شده را با استفاده از سرویس Volume Shadow Copy کپی کنید.</target>
 
 <source>requires administrator rights</source>
-<target>requires administrator rights</target>
+<target>نیاز به دسترسی مدیریت دارد</target>
 
 <source>Transfer file and folder permissions.</source>
-<target>Transfer file and folder permissions.</target>
+<target>انتقال مجوز فایل‌ها و پوشه‌ها.</target>
 
 <source>Show hidden dialogs and warning messages again:</source>
-<target>Show hidden dialogues and warning messages again:</target>
+<target>نمایش مجدد دیالوگ‌های مخفی و پیام‌های هشدار:</target>
 
 <source>&Show details</source>
-<target>&Show details</target>
+<target>&نمایش جزئیات</target>
 
 <source>Default log folder:</source>
-<target>Default log folder:</target>
+<target>پوشه لاگ پیشفرض:</target>
 
 <source>&Delete logs after x days:</source>
-<target>&Delete logs after x days:</target>
+<target>&حذف خودکار لاگ‌ها بعد از x روز:</target>
 
 <source>Log file format:</source>
-<target>Log file format:</target>
+<target>فرمت فایل لاگ:</target>
 
 <source>&Plain text</source>
-<target>&Plain text</target>
+<target>&متن ساده</target>
 
 <source>Notification sounds:</source>
-<target>Notification sounds:</target>
+<target>صداهای هشدار:</target>
 
 <source>Synchronization finished:</source>
-<target>Synchronisation finished:</target>
+<target>همگام سازی تمام شد:</target>
 
 <source>Unattended error message:</source>
-<target>Unattended error message:</target>
+<target>پیام خطای نظارت نشده:</target>
 
 <source>Customize context menu:</source>
-<target>Customise context menu:</target>
+<target>سفارشی کردن منوی زمینه:</target>
 
 <source>Full file or folder path</source>
-<target>Full file or folder path</target>
+<target>مسیر کامل فایل یا پوشه</target>
 
 <source>Temporary local copy for SFTP and MTP storage</source>
-<target>Temporary local copy for SFTP and MTP storage</target>
+<target>کپی محلی موقت برای ذخیره سازی SFTP و MTP</target>
 
 <source>File or folder name</source>
-<target>File or folder name</target>
+<target>نام فایل یا پوشه</target>
 
 <source>Parent folder path</source>
-<target>Parent folder path</target>
+<target>مسیر پوشه والد</target>
 
 <source>Description</source>
-<target>Description</target>
+<target>توضیحات</target>
 
 <source>Get the Donation Edition with bonus features and help keep FreeFileSync ad-free.</source>
-<target>Get the Donation Edition with bonus features and help keep FreeFileSync ad-free.</target>
+<target>نسخه حمایتی FreeFileSync را خریداری کنید تا علاوه بر بهره مندی از امکانات ویژه، در رایگان و بدون تبلیغات ماندن این برنامه کمک کنید.</target>
 
 <source>Support with a donation</source>
-<target>Support with a donation</target>
+<target>با کمک مالی حمایت کنید</target>
 
 <source>Share your feedback and ideas:</source>
-<target>Share your feedback and ideas:</target>
+<target>نظرات و ایده‌های خود را به اشتراک بگذارید:</target>
 
 <source>Many thanks for localization:</source>
-<target>Many thanks for localisation:</target>
+<target>با تشکر از افرادی که در ترجمه کمک کردند:</target>
 
 <source>Thank you, %x, for your support!</source>
-<target>Thank you, %x, for your support!</target>
+<target>ممنون, %x, برای حمایت از برنامه!</target>
 
 <source>&Donate</source>
-<target>&Donate</target>
+<target>&حمایت مالی</target>
 
 <source>Activate the FreeFileSync Donation Edition by one of the following methods:</source>
-<target>Activate the FreeFileSync Donation Edition by one of the following methods:</target>
+<target>نسخه حمایتی FreeFileSync را به یکی از روش‌های زیر فعال کنید:</target>
 
 <source>Activate via internet now:</source>
-<target>Activate via internet now:</target>
+<target>اکنون از طریق اینترنت فعال کنید:</target>
 
 <source>Activate online</source>
-<target>Activate online</target>
+<target>آنلاین فعال کنید</target>
 
 <source>Retrieve an offline activation key from the following URL:</source>
-<target>Retrieve an offline activation key from the following URL:</target>
+<target>یک کلید فعال سازی آفلاین را از URL زیر بازیابی کنید:</target>
 
 <source>&Copy to clipboard</source>
-<target>&Copy to clipboard</target>
+<target>&کپی به کلیپ بورد</target>
 
 <source>Enter activation key:</source>
-<target>Enter activation key:</target>
+<target>کلید فعال سازی را وارد کنید:</target>
 
 <source>Activate offline</source>
-<target>Activate offline</target>
+<target>فعال کردن آفلاین</target>
 
 <source>Highlight configurations that have not been run for more than the following number of days:</source>
-<target>Highlight configurations that have not been run for more than the following number of days:</target>
+<target>پیکربندی‌هایی را که بیش از چند روز زیر اجرا نشده‌اند، برجسته کنید:</target>
 
 <source>FreeFileSync requires access rights to avoid "Operation not permitted" errors when synchronizing your data (e.g. Mail, Messages, Calendars).</source>
-<target>FreeFileSync requires access rights to avoid "Operation not permitted" errors when synchronizing your data (e.g. Mail, Messages, Calendars).</target>
+<target>برنامه FreeFileSync برای جلوگیری از خطاهای «عملیات مجاز نیست» هنگام همگام‌سازی داده‌های شما (مانند ایمیل، پیام‌ها، تقویم‌ها) به حقوق دسترسی نیاز دارد..</target>
 
 <source>Locate the FreeFileSync app</source>
-<target>Locate the FreeFileSync app</target>
+<target>پیداکردن مسیر برنامه FreeFileSync</target>
 
 <source>Open Security && Privacy</source>
-<target>Open Security && Privacy</target>
+<target>بازکردن امنیت && و حریم خصوصی</target>
 
 <source>Click the lock to allow changes.</source>
-<target>Click the lock to allow changes.</target>
+<target>برای اجازه دادن به تغییرات روی قفل کلیک کنید.</target>
 
 <source>Drag FreeFileSync into the panel.</source>
-<target>Drag FreeFileSync into the panel.</target>
+<target>برنامه FreeFileSync را به داخل پنل بکشید.</target>
 
 <source>Synchronization Settings</source>
-<target>Synchronisation Settings</target>
+<target>تنظیمات همگام سازی</target>
 
 <source>Access Online Storage</source>
-<target>Access Online Storage</target>
+<target>دسترسی به فضای ذخیره سازی آنلاین</target>
 
 <source>Save as a Batch Job</source>
-<target>Save as a Batch Job</target>
+<target>ذخیره به عنوان کار دسته‌ای</target>
 
 <source>Delete Items</source>
-<target>Delete Items</target>
+<target>حذف موارد</target>
 
 <source>Copy Items</source>
-<target>Copy Items</target>
+<target>کپی موارد</target>
 
 <source>Options</source>
-<target>Options</target>
+<target>گزینه‌ها</target>
 
 <source>Select Time Span</source>
-<target>Select Time Span</target>
+<target>بازه زمانی را انتخاب کنید</target>
 
 <source>Highlight Configurations</source>
-<target>Highlight Configurations</target>
+<target>تنظیمات را برجسته کنید</target>
 
 <source>Grant Full Disk Access</source>
-<target>Grant Full Disk Access</target>
+<target>اعطای دسترسی کامل به دیسک</target>
 
 <source>Info</source>
-<target>Info</target>
+<target>اطلاعات</target>
 
 <source>No log entries</source>
-<target>No log entries</target>
+<target>هیچ ورودی گزارشی وجود ندارد</target>
 
 <source>Select all</source>
-<target>Select all</target>
+<target>انتخاب همه</target>
 
 <source>Select view:</source>
-<target>Select view:</target>
+<target>انتخاب نمایش:</target>
 
 <source>Show filtered or temporarily excluded files</source>
-<target>Show filtered or temporarily excluded files</target>
+<target>نمایش فایل‌های فیلتر شده یا موقتاً حذف شده</target>
 
 <source>Show files that are equal</source>
-<target>Show files that are equal</target>
+<target>نمایش فایل‌هایی که برابر هستند</target>
 
 <source>Show conflicts</source>
-<target>Show conflicts</target>
+<target>نمایش تضادها</target>
 
 <source>Show files that will be created on the left side</source>
-<target>Show files that will be created on the left side</target>
+<target>نمایش فایل‌هایی که در سمت چپ ایجاد می‌شوند</target>
 
 <source>Show files that will be created on the right side</source>
-<target>Show files that will be created on the right side</target>
+<target>نمایش فایل‌هایی که در سمت راست ایجاد می‌شوند</target>
 
 <source>Show files that will be deleted on the left side</source>
-<target>Show files that will be deleted on the left side</target>
+<target>نمایش فایل‌هایی که در سمت چپ حذف می‌شوند</target>
 
 <source>Show files that will be deleted on the right side</source>
-<target>Show files that will be deleted on the right side</target>
+<target>نمایش فایل‌هایی که در سمت راست حذف می‌شوند</target>
 
 <source>Show files that will be updated on the left side</source>
-<target>Show files that will be updated on the left side</target>
+<target>نمایش فایل‌هایی که در سمت چپ به روز می‌شوند</target>
 
 <source>Show files that will be updated on the right side</source>
-<target>Show files that will be updated on the right side</target>
+<target>نمایش فایل‌هایی که در سمت راست به روز می‌شوند</target>
 
 <source>Show files that won't be copied</source>
-<target>Show files that won't be copied</target>
+<target>نمایش فایل‌هایی که کپی نمی‌شوند</target>
 
 <source>Show files that exist on left side only</source>
-<target>Show files that exist on left side only</target>
+<target>نمایش فایل‌هایی که فقط در سمت چپ وجود دارند</target>
 
 <source>Show files that exist on right side only</source>
-<target>Show files that exist on right side only</target>
+<target>نمایش فایل‌هایی که فقط در سمت راست وجود دارند</target>
 
 <source>Show files that are newer on left</source>
-<target>Show files that are newer on left</target>
+<target>نمایش فایل‌هایی که در سمت چپ جدیدتر هستند</target>
 
 <source>Show files that are newer on right</source>
-<target>Show files that are newer on right</target>
+<target>نمایش فایل‌هایی که در سمت راست جدیدتر هستند</target>
 
 <source>Show files that are different</source>
-<target>Show files that are different</target>
+<target>نمایش فایل‌های متفاوت</target>
 
 <source>&Options</source>
-<target>&Options</target>
+<target>&گزینه‌ها</target>
 
 <source>Main Bar</source>
-<target>Main Bar</target>
+<target>نوار اصلی</target>
 
 <source>Folder Pairs</source>
-<target>Folder Pairs</target>
+<target>جفت پوشه‌ها</target>
 
 <source>Find</source>
-<target>Find</target>
+<target>یافتن</target>
 
 <source>View Settings</source>
-<target>View Settings</target>
+<target>نمایش تنظیمات</target>
 
 <source>Configuration</source>
-<target>Configuration</target>
+<target>پیکربندی</target>
 
 <source>Overview</source>
 <target>Overview</target>
