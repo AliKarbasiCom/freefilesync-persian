@@ -1181,151 +1181,151 @@ The command is triggered if:
 - Detection not available for first sync
 </source>
 <target>
-- Not supported by all file systems
-- Requires and creates database files
-- Detection not available for first sync
+- توسط همه فایل سیستم‌ها پشتیبانی نمی‌شود
+- فایل‌های پایگاه داده را نیاز دارد و ایجاد می‌کند
+- تشخیص برای اولین همگام‌سازی در دسترس نیست
 </target>
 
 <source>Delete files:</source>
-<target>Delete files:</target>
+<target>حذف فایل‌های:</target>
 
 <source>&Recycle bin</source>
-<target>&Recycle bin</target>
+<target>&سطل آشغال</target>
 
 <source>&Permanent</source>
-<target>&Permanent</target>
+<target>&دائمی</target>
 
 <source>&Versioning</source>
-<target>&Versioning</target>
+<target>&نسخه سازی</target>
 
 <source>Move files to a user-defined folder</source>
-<target>Move files to a user-defined folder</target>
+<target>انتقال فایل‌ها به پوشه تعریف شده توسط کاربر</target>
 
 <source>Naming convention:</source>
-<target>Naming convention:</target>
+<target>قرارداد نامگذاری:</target>
 
 <source>Limit file versions:</source>
-<target>Limit file versions:</target>
+<target>محدود کردن نسخه‌های فایل:</target>
 
 <source>Last x days:</source>
-<target>Last x days:</target>
+<target>آخرین x روز:</target>
 
 <source>Send email notification:</source>
-<target>Send email notification:</target>
+<target>ارسال اعلان ایمیل:</target>
 
 <source>&Change log folder:</source>
-<target>&Change log folder:</target>
+<target>&تغییر پوشه لاگ:</target>
 
 <source>Run a command:</source>
-<target>Run a command:</target>
+<target>اجرای دستور:</target>
 
 <source>OK</source>
-<target>OK</target>
+<target>اوکی</target>
 
 <source>Connection type:</source>
-<target>Connection type:</target>
+<target>نوع اتصال:</target>
 
 <source>Connected user accounts:</source>
-<target>Connected user accounts:</target>
+<target>حساب‌های کاربری متصل:</target>
 
 <source>&Add connection</source>
-<target>&Add connection</target>
+<target>&افزودن اتصال</target>
 
 <source>&Disconnect</source>
-<target>&Disconnect</target>
+<target>&قطع کردن</target>
 
 <source>Select drive:</source>
-<target>Select drive:</target>
+<target>انتخاب درایو:</target>
 
 <source>Server name or IP address:</source>
-<target>Server name or IP address:</target>
+<target>نام یا IP سرور:</target>
 
 <source>Port:</source>
-<target>Port:</target>
+<target>پورت:</target>
 
 <source>Encryption:</source>
-<target>Encryption:</target>
+<target>رمزنگاری:</target>
 
 <source>&Disabled</source>
-<target>&Disabled</target>
+<target>&غیرفعال</target>
 
 <source>&Explicit SSL/TLS</source>
-<target>&Explicit SSL/TLS</target>
+<target>&صریح SSL/TLS</target>
 
 <source>Authentication:</source>
-<target>Authentication:</target>
+<target>احراز هویت:</target>
 
 <source>&Password</source>
-<target>&Password</target>
+<target>&رمز عبور</target>
 
 <source>&Key file</source>
-<target>&Key file</target>
+<target>&فایل کلید</target>
 
 <source>&SSH agent</source>
-<target>&SSH agent</target>
+<target>&SSH عامل</target>
 
 <source>Private key file:</source>
-<target>Private key file:</target>
+<target>فایل کلید اختصاصی:</target>
 
 <source>&Show password</source>
-<target>&Show password</target>
+<target>&نمایش رمز عبور</target>
 
 <source>Directory on server:</source>
-<target>Directory on server:</target>
+<target>دایرکتوری روی سرور:</target>
 
 <source>Access timeout (in seconds):</source>
-<target>Access timeout (in seconds):</target>
+<target>توقف دسترسی (به ثانیه):</target>
 
 <source>SFTP channels per connection:</source>
-<target>SFTP channels per connection:</target>
+<target>کانال SFTP به ازای هر اتصال:</target>
 
 <source>Detect server limit</source>
-<target>Detect server limit</target>
+<target>شناسایی محدودیت سرور</target>
 
 <source>Enable &compression</source>
-<target>Enable &compression</target>
+<target>فعال‌کردن &فشرده‌سازی</target>
 
 <source>Select Folder</source>
-<target>Select Folder</target>
+<target>انتخاب پوشه</target>
 
 <source>Variant:</source>
-<target>Variant:</target>
+<target>گونه:</target>
 
 <source>&Don't show this dialog again</source>
-<target>&Don't show this dialogue again</target>
+<target>&این پیام را دوباره نمایش نده</target>
 
 <source>Bytes:</source>
-<target>Bytes:</target>
+<target>بایت:</target>
 
 <source>Items:</source>
-<target>Items:</target>
+<target>موارد:</target>
 
 <source>Synchronizing...</source>
-<target>Synchronising...</target>
+<target>همگام سازی...</target>
 
 <source>Minimize to notification area</source>
-<target>Minimise to notification area</target>
+<target>کوچک کردن برنامه به قسمت اعلانات</target>
 
 <source>Bytes</source>
-<target>Bytes</target>
+<target>بایت</target>
 
 <source>Items</source>
-<target>Items</target>
+<target>موارد</target>
 
 <source>When finished:</source>
-<target>When finished:</target>
+<target>وقتی تمام شد:</target>
 
 <source>Auto-close</source>
-<target>Auto-close</target>
+<target>خروج خودکار</target>
 
 <source>Close</source>
-<target>Close</target>
+<target>بستن</target>
 
 <source>&Pause</source>
-<target>&Pause</target>
+<target>&مکث</target>
 
 <source>Stop</source>
-<target>Stop</target>
+<target>توقف</target>
 
 <source>Create a batch file for unattended synchronization. To start, double-click this file or schedule in a task planner: %x</source>
 <target>Create a batch file for unattended synchronisation. To start, double-click this file or schedule in a task planner: %x</target>
