@@ -1865,234 +1865,234 @@ This guarantees a consistent state even in case of a serious error.
 <target>همگام سازی الان شروع شود؟</target>
 
 <source>Leave progress dialog open after synchronization. (don't auto-close)</source>
-<target>Leave progress dialogue open after synchronisation. (don't auto-close)</target>
+<target>صفحه پیشرفت را پس از همگام سازی باز بگذارید. (خودکار بسته نشود)</target>
 
 <source>Copy DACL, SACL, Owner, Group</source>
-<target>Copy DACL, SACL, Owner, Group</target>
+<target>کپی DACL و SACL و Owner و Group</target>
 
 <source>No dialogs hidden</source>
-<target>No dialogues hidden</target>
+<target>هیچ دیالوگی پنهان نیست</target>
 
 <source>
 <pluralform>1 dialog hidden</pluralform>
 <pluralform>%x dialogs hidden</pluralform>
 </source>
 <target>
-<pluralform>1 dialogue hidden</pluralform>
-<pluralform>%x dialogues hidden</pluralform>
+<pluralform>یک دیالوگ پنهان است</pluralform>
+<pluralform>%x دیالوگ پنهان هستند</pluralform>
 </target>
 
 <source>Please enter a key for offline activation.</source>
-<target>Please enter a key for offline activation.</target>
+<target>لطفا یک کلید برای فعال سازی آفلاین وارد کنید.</target>
 
 <source>Downloading update...</source>
-<target>Downloading update...</target>
+<target>درحال دانلود به روز رسانی‌ها...</target>
 
 <source>Identify equal files by comparing modification time and size.</source>
-<target>Identify equal files by comparing modification time and size.</target>
+<target>با مقایسه زمان و اندازه اصلاح، فایل‌های مشابه شناسایی شوند.</target>
 
 <source>Identify equal files by comparing the file content.</source>
-<target>Identify equal files by comparing the file content.</target>
+<target>با مقایسه محتوای فایل فایل‌های مشابه شناسایی شوند.</target>
 
 <source>Identify equal files by comparing their file size.</source>
-<target>Identify equal files by comparing their file size.</target>
+<target>فایل های مشابه را با مقایسه اندازه فایل آنها شناسایی شوند.</target>
 
 <source>Identify and propagate changes on both sides. Deletions, moves and conflicts are detected automatically using a database.</source>
-<target>Identify and propagate changes on both sides. Deletions, moves and conflicts are detected automatically using a database.</target>
+<target>تغییرات در هر دو طرف شناسایی و منتشر شوند. حذف‌ها، جابجایی‌ها و درگیری‌ها به طور خودکار با استفاده از پایگاه داده شناسایی می‌شوند.</target>
 
 <source>Create a mirror backup of the left folder by adapting the right folder to match.</source>
-<target>Create a mirror backup of the left folder by adapting the right folder to match.</target>
+<target>با تطبیق پوشه سمت راست برای مطابقت، یک نسخه پشتیبان آینه‌ای از پوشه سمت چپ ایجاد شود.</target>
 
 <source>Copy new and updated files to the right folder.</source>
-<target>Copy new and updated files to the right folder.</target>
+<target>فایل‌های جدید و به روز شده در پوشه سمت راست کپی شوند.</target>
 
 <source>Configure your own synchronization rules.</source>
-<target>Configure your own synchronisation rules.</target>
+<target>قوانین همگام سازی خود را پیکربندی کنید.</target>
 
 <source>Comparison</source>
-<target>Comparison</target>
+<target>مقایسه</target>
 
 <source>Synchronization</source>
-<target>Synchronisation</target>
+<target>همگام سازی</target>
 
 <source>This week</source>
-<target>This week</target>
+<target>این هفته</target>
 
 <source>This month</source>
-<target>This month</target>
+<target>این ماه</target>
 
 <source>This year</source>
-<target>This year</target>
+<target>امسال</target>
 
 <source>Byte</source>
-<target>Byte</target>
+<target>بایت</target>
 
 <source>KB</source>
-<target>KB</target>
+<target>کیلوبایت</target>
 
 <source>MB</source>
-<target>MB</target>
+<target>مگابایت</target>
 
 <source>Retain deleted and overwritten files in the recycle bin</source>
-<target>Retain deleted and overwritten files in the recycle bin</target>
+<target>فایل‌های حذف شده و بازنویسی شده در سطل آشغال نگهداری شود</target>
 
 <source>Delete and overwrite files permanently</source>
-<target>Delete and overwrite files permanently</target>
+<target>فایل‌ها به طور دائم حذف و بازنویسی شود</target>
 
 <source>Replace</source>
-<target>Replace</target>
+<target>بازنویسی</target>
 
 <source>Move files and replace if existing</source>
-<target>Move files and replace if existing</target>
+<target>فایل ها منتقل شده و در صورت وجود جایگزین شوند</target>
 
 <source>Time stamp</source>
-<target>Time stamp</target>
+<target>تایم استمپ</target>
 
 <source>Move files into a time-stamped subfolder</source>
-<target>Move files into a time-stamped subfolder</target>
+<target>انتقال فایل‌ها به زیر پوشه تایم استمپ</target>
 
 <source>File</source>
-<target>File</target>
+<target>فایل</target>
 
 <source>Append a time stamp to each file name</source>
-<target>Append a time stamp to each file name</target>
+<target>به نام هر فایل یک تایم استمپ اضافه کنید</target>
 
 <source>On completion:</source>
-<target>On completion:</target>
+<target>وقتی کامل شد:</target>
 
 <source>On errors:</source>
-<target>On errors:</target>
+<target>وقتی ارور داده شده:</target>
 
 <source>On success:</source>
-<target>On success:</target>
+<target>وقتی موفق بود:</target>
 
 <source>All folder pairs</source>
-<target>All folder pairs</target>
+<target>همه جفت پوشه‌ها</target>
 
 <source>&Load factory default</source>
-<target>&Load factory default</target>
+<target>&بازگشت به تنظیمات اولیه</target>
 
 <source>Leave as unresolved conflict</source>
-<target>Leave as unresolved conflict</target>
+<target>به عنوان تداخل حل نشده باقی بماند</target>
 
 <source>YYYY-MM-DD hhmmss</source>
 <target>YYYY-MM-DD hhmmss</target>
 
 <source>Success</source>
-<target>Success</target>
+<target>موفق</target>
 
 <source>Minimum version count must be smaller than maximum count.</source>
-<target>Minimum version count must be smaller than maximum count.</target>
+<target>حداقل تعداد نسخه باید از حداکثر تعداد کمتر باشد.</target>
 
 <source>Please enter a folder path.</source>
-<target>Please enter a folder path.</target>
+<target>لطفا مسیر یک پوشه را وارد کنید.</target>
 
 <source>&Restore</source>
-<target>&Restore</target>
+<target>&بازگرداندن</target>
 
 <source>Files</source>
-<target>Files</target>
+<target>فایل‌ها</target>
 
 <source>Percentage</source>
-<target>Percentage</target>
+<target>درصد</target>
 
 <source>Failed to retrieve update information.</source>
-<target>Failed to retrieve update information.</target>
+<target>اطلاعات به روز رسانی دریافت نشد.</target>
 
 <source>Automatic updates:</source>
-<target>Automatic updates:</target>
+<target>آپدیت خودکار:</target>
 
 <source>Check for Program Updates</source>
-<target>Check for Program Updates</target>
+<target>بررسی برای نسخه جدید برنامه</target>
 
 <source>Auto-update now or download manually from the FreeFileSync home page?</source>
-<target>Auto-update now or download manually from the FreeFileSync home page?</target>
+<target>به صورت خودکار به روز شود یا از سایت FreeFileSync دانلود شود؟</target>
 
 <source>&Auto-update</source>
-<target>&Auto-update</target>
+<target>&آپدیت خودکار</target>
 
 <source>&Home page</source>
-<target>&Home page</target>
+<target>&سایت برنامه</target>
 
 <source>Download now?</source>
-<target>Download now?</target>
+<target>اکنون دانلود شود؟</target>
 
 <source>&Download</source>
-<target>&Download</target>
+<target>&دانلود</target>
 
 <source>FreeFileSync is up to date.</source>
-<target>FreeFileSync is up to date.</target>
+<target>شما از جدیدترین نسخه FreeFileSync استفاده می‌کنید.</target>
 
 <source>Cannot find current FreeFileSync version number online. A newer version is likely available. Check manually now?</source>
-<target>Cannot find current FreeFileSync version number online. A newer version is likely available. Check manually now?</target>
+<target>این نسخه از FreeFileSync را نمی‌توان در سایت پیدا کرد. احتمالا نسخه جدیدتری منتشر شده است. به صورت دستی بررسی شود؟</target>
 
 <source>&Check</source>
-<target>&Check</target>
+<target>&بررسی</target>
 
 <source>Consistency check failed for %x.</source>
-<target>Consistency check failed for %x.</target>
+<target>بررسی سازگاری %x ناموفق بود.</target>
 
 <source>Failed to activate FreeFileSync Donation Edition.</source>
-<target>Failed to activate FreeFileSync Donation Edition.</target>
+<target>خطا هنگام فعال‌سازی نسخه حمایتی FreeFileSync خطایی رخ داد.</target>
 
 <source>Incorrect activation key.</source>
-<target>Incorrect activation key.</target>
+<target>کلید فعال سازی نامعتبر است.</target>
 
 <source>Installation was registered on a different operating system.</source>
-<target>Installation was registered on a different operating system.</target>
+<target>نصب روی سیستم عامل دیگری ثبت شده است.</target>
 
 <source>Unable to register to receive system messages.</source>
-<target>Unable to register to receive system messages.</target>
+<target>ثبت نام برای دریافت پیام‌های سیستمی امکان پذیر نیست.</target>
 
 <source>The %x installation option is only available in the FreeFileSync Donation Edition.</source>
-<target>The %x installation option is only available in the FreeFileSync Donation Edition.</target>
+<target>مورد %x فقط در نسخه حمایتی FreeFileSync در دسترس است.</target>
 
 <source>Error description not available.</source>
-<target>Error description not available.</target>
+<target>شرح خطا در دسترس نیست.</target>
 
 <source>Cannot find system function %x.</source>
-<target>Cannot find system function %x.</target>
+<target>عملکرد سیستم %x را نمی‌توان پیدا کرد.</target>
 
 <source>Unable to register device notifications for %x.</source>
-<target>Unable to register device notifications for %x.</target>
+<target>امکان ثبت نام هشدارهای دستگاه برای %x وجود ندارد.</target>
 
 <source>Cannot monitor directory %x.</source>
-<target>Cannot monitor directory %x.</target>
+<target>امکان تحت نظر گرفتن دایرکتوری %x وجود ندارد.</target>
 
 <source>The file is locked by another process:</source>
-<target>The file is locked by another process:</target>
+<target>فایل توسط فرآیند دیگری قفل شده است:</target>
 
 <source>Failed to determine file permission support for folder %x.</source>
-<target>Failed to determine file permission support for folder %x.</target>
+<target>امکان تعیین پشتیبانی مجوز فایل برای پوشه %x وجود ندارد.</target>
 
 <source>Cannot read security context of %x.</source>
-<target>Cannot read security context of %x.</target>
+<target>امکان خواندن زمینه‌های امنیتی %x وجود ندارد.</target>
 
 <source>Cannot write security context of %x.</source>
-<target>Cannot write security context of %x.</target>
+<target>امکان نوشتن زمینه‌های امنیتی %x وجود ندارد.</target>
 
 <source>Cannot read permissions of %x.</source>
-<target>Cannot read permissions of %x.</target>
+<target>امکان خواندن دسترسی‌های %x وجود ندارد.</target>
 
 <source>Cannot copy permissions from %x to %y.</source>
-<target>Cannot copy permissions from %x to %y.</target>
+<target>امکان کپی کردن دسترسی‌ها از %x به %y وجود ندارد.</target>
 
 <source>Cannot copy attributes from %x to %y.</source>
-<target>Cannot copy attributes from %x to %y.</target>
+<target>امکان کپی ویژگی‌ها از %x به %y وجود ندارد.</target>
 
 <source>%x TB</source>
-<target>%x TB</target>
+<target>%x ترابایت</target>
 
 <source>%x PB</source>
-<target>%x PB</target>
+<target>%x پتابایت</target>
 
 <source>
 <pluralform>1 min</pluralform>
 <pluralform>%x min</pluralform>
 </source>
 <target>
-<pluralform>1 min</pluralform>
-<pluralform>%x min</pluralform>
+<pluralform>1 دقیقه</pluralform>
+<pluralform>%x دقیقه</pluralform>
 </target>
 
 <source>
@@ -2100,48 +2100,48 @@ This guarantees a consistent state even in case of a serious error.
 <pluralform>%x hours</pluralform>
 </source>
 <target>
-<pluralform>1 hour</pluralform>
-<pluralform>%x hours</pluralform>
+<pluralform>1 ساعت</pluralform>
+<pluralform>%x ساعت</pluralform>
 </target>
 
 <source>Unable to suspend system sleep mode.</source>
-<target>Unable to suspend system sleep mode.</target>
+<target>امکان تعلیق حالت خواب سیستم وجود ندارد.</target>
 
 <source>Cannot change process I/O priorities.</source>
-<target>Cannot change process I/O priorities.</target>
+<target>اولویت‌های ورودی/خروجی فرآیند را نمی‌توان تغییر داد.</target>
 
 <source>Checking recycle bin failed for folder %x.</source>
-<target>Checking recycle bin failed for folder %x.</target>
+<target>بررسی سطل آشغال برای پوشه %x انجام نشد.</target>
 
 <source>Unable to shut down the system.</source>
-<target>Unable to shut down the system.</target>
+<target>امکان خاموش کردن سیستم وجود ندارد.</target>
 
 <source>Select</source>
-<target>Select</target>
+<target>انتخاب</target>
 
 <source>Prepare installation</source>
-<target>Prepare installation</target>
+<target>آماده سازی نصب</target>
 
 <source>Choose which components you want to install.</source>
-<target>Choose which components you want to install.</target>
+<target>انتخاب کنید کدام مؤلفه‌ها را می‌خواهید نصب کنید.</target>
 
 <source>Select installation type:</source>
-<target>Select installation type:</target>
+<target>نوع نصب را انتخاب کنید:</target>
 
 <source>Local</source>
-<target>Local</target>
+<target>محلی</target>
 
 <source>Portable</source>
-<target>Portable</target>
+<target>قابل حمل</target>
 
 <source>Save settings in %x</source>
-<target>Save settings in %x</target>
+<target>ذخیره تنظیمات در %x</target>
 
 <source>Register FreeFileSync file extensions</source>
-<target>Register FreeFileSync file extensions</target>
+<target>ثبت پسوند فایل FreeFileSync</target>
 
 <source>Create Explorer context menu entries</source>
-<target>Create Explorer context menu entries</target>
+<target>ایجاد میانبرهای منوی زمینه ویندوز</target>
 
 <source>Save settings in installation directory</source>
 <target>تنظیمات را در مسیر نصب برنامه ذخیره کنید</target>
