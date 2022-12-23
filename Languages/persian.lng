@@ -1583,174 +1583,174 @@ This guarantees a consistent state even in case of a serious error.
 <target>پیکربندی</target>
 
 <source>Overview</source>
-<target>Overview</target>
+<target>بررسی اجمالی</target>
 
 <source>Swap sides</source>
-<target>Swap sides</target>
+<target>تعویض طرفین</target>
 
 <source>Show "%x"</source>
-<target>Show "%x"</target>
+<target>نمایش "%x"</target>
 
 <source>Local path not available for %x.</source>
-<target>Local path not available for %x.</target>
+<target>مسیر محلی برای %x وجود ندارد.</target>
 
 <source>Confirm</source>
-<target>Confirm</target>
+<target>تایید</target>
 
 <source>
 <pluralform>Do you really want to execute the command %y for one item?</pluralform>
 <pluralform>Do you really want to execute the command %y for %x items?</pluralform>
 </source>
 <target>
-<pluralform>Do you really want to execute the command %y for one item?</pluralform>
-<pluralform>Do you really want to execute the command %y for %x items?</pluralform>
+<pluralform>آیا واقعا می‌خواهید دستور %y را برای یک مورد اجرا کنید?</pluralform>
+<pluralform>آیا واقعا می‌خواهید دستور %y را برای %x مورد اجرا کنید?</pluralform>
 </target>
 
 <source>&Execute</source>
-<target>&Execute</target>
+<target>&اجرا</target>
 
 <source>Set direction:</source>
-<target>Set direction:</target>
+<target>تنظیم جهت:</target>
 
 <source>multiple selection</source>
-<target>multiple selection</target>
+<target>انتخاب چندگانه</target>
 
 <source>&Include via filter:</source>
-<target>&Include via filter:</target>
+<target>&شامل از طریق فیلتر:</target>
 
 <source>&Exclude via filter:</source>
-<target>&Exclude via filter:</target>
+<target>&حذف از طریق فیلتر:</target>
 
 <source>Include temporarily</source>
-<target>Include temporarily</target>
+<target>به طور موقت شامل شود</target>
 
 <source>Exclude temporarily</source>
-<target>Exclude temporarily</target>
+<target>به طور موقت شامل نشود</target>
 
 <source>&Synchronize selection</source>
-<target>&Synchronise selection</target>
+<target>&همگام سازی موارد انتخاب شده</target>
 
 <source>&Copy to...</source>
-<target>&Copy to...</target>
+<target>&کپی به...</target>
 
 <source>&Delete</source>
-<target>&Delete</target>
+<target>&حذف</target>
 
 <source>Show icons:</source>
-<target>Show icons:</target>
+<target>نمایش آیکون‌ها:</target>
 
 <source>Small</source>
-<target>Small</target>
+<target>کوچک</target>
 
 <source>Medium</source>
-<target>Medium</target>
+<target>متوسط</target>
 
 <source>Large</source>
-<target>Large</target>
+<target>بزرگ</target>
 
 <source>Select time span...</source>
-<target>Select time span...</target>
+<target>بازه زمانی را انتخاب کنید...</target>
 
 <source>Donation Edition</source>
-<target>Donation Edition</target>
+<target>نسخه حمایتی</target>
 
 <source>Folder Comparison and Synchronization</source>
-<target>Folder Comparison and Synchronisation</target>
+<target>مقایسه و همگام سازی پوشه ها</target>
 
 <source>Edited</source>
-<target>Edited</target>
+<target>ویرایش شده</target>
 
 <source>Configuration saved</source>
-<target>Configuration saved</target>
+<target>تنظیمات ذخیره شد</target>
 
 <source>FreeFileSync batch</source>
-<target>FreeFileSync batch</target>
+<target>FreeFileSync دسته‌ای</target>
 
 <source>Do you want to save changes to %x?</source>
-<target>Do you want to save changes to %x?</target>
+<target>آیا می‌خواهید تغییرات را در %x ذخیره کنید?</target>
 
 <source>Never save &changes</source>
-<target>Never save &changes</target>
+<target>هرگز &تغییرات را ذخیره نکن</target>
 
 <source>Do&n't save</source>
-<target>Do&n't save</target>
+<target>ذخ&یره نکن</target>
 
 <source>%x cannot be renamed.</source>
-<target>%x cannot be renamed.</target>
+<target>نام %x را نمی‌توان ویرایش کرد.</target>
 
 <source>New name:</source>
-<target>New name:</target>
+<target>نام جدید:</target>
 
 <source>Rename Configuration</source>
-<target>Rename Configuration</target>
+<target>ویرایش نام تنظیمات</target>
 
 <source>Configuration name must not be empty.</source>
-<target>Configuration name must not be empty.</target>
+<target>نام تنظیمات نباید خالی باشد.</target>
 
 <source>&Rename...</source>
-<target>&Rename...</target>
+<target>&ویرایش نام...</target>
 
 <source>Red</source>
-<target>Red</target>
+<target>قرمز</target>
 
 <source>Yellow</source>
-<target>Yellow</target>
+<target>زرد</target>
 
 <source>Green</source>
-<target>Green</target>
+<target>سبز</target>
 
 <source>Cyan</source>
-<target>Cyan</target>
+<target>فیروزه‌ای</target>
 
 <source>Blue</source>
-<target>Blue</target>
+<target>آبی</target>
 
 <source>Purple</source>
-<target>Purple</target>
+<target>بنفش</target>
 
 <source>Gray</source>
-<target>Grey</target>
+<target>خاکستری</target>
 
 <source>Background color</source>
-<target>Background colour</target>
+<target>رنگ پس‌زمینه</target>
 
 <source>&Hide</source>
-<target>&Hide</target>
+<target>&مخفی کردن</target>
 
 <source>Highlight...</source>
-<target>Highlight...</target>
+<target>برجسته...</target>
 
 <source>Clear filter</source>
-<target>Clear filter</target>
+<target>پاک کردن فیلترها</target>
 
 <source>View settings saved</source>
-<target>View settings saved</target>
+<target>تنظیمات نمایش ذخیره شد</target>
 
 <source>&Save as default</source>
-<target>&Save as default</target>
+<target>&ذخیره به عنوان پیش فرض</target>
 
 <source>Filter</source>
-<target>Filter</target>
+<target>فیلتر</target>
 
 <source>No files to synchronize</source>
-<target>No files to synchronise</target>
+<target>هیچ فایلی برای همگام سازی وجود ندارد</target>
 
 <source>Please confirm you want to swap sides.</source>
-<target>Please confirm you want to swap sides.</target>
+<target>لطفاً تأیید کنید که می‌خواهید طرف را عوض کنید.</target>
 
 <source>&Swap</source>
-<target>&Swap</target>
+<target>&تعویض</target>
 
 <source>Left and right sides have been swapped</source>
-<target>Left and right sides have been swapped</target>
+<target>سمت چپ و راست تعویض شدند</target>
 
 <source>
 <pluralform>1 directory</pluralform>
 <pluralform>%x directories</pluralform>
 </source>
 <target>
-<pluralform>1 directory</pluralform>
-<pluralform>%x directories</pluralform>
+<pluralform>1 دایرکتوری</pluralform>
+<pluralform>%x دایرکتوری</pluralform>
 </target>
 
 <source>
@@ -1758,111 +1758,111 @@ This guarantees a consistent state even in case of a serious error.
 <pluralform>%x files</pluralform>
 </source>
 <target>
-<pluralform>1 file</pluralform>
-<pluralform>%x files</pluralform>
+<pluralform>1 فایل</pluralform>
+<pluralform>%x فایل</pluralform>
 </target>
 
 <source>Cannot find %x</source>
-<target>Cannot find %x</target>
+<target>امکان یافتن %x وجود ندارد</target>
 
 <source>Move up</source>
-<target>Move up</target>
+<target>انتقال به بالا</target>
 
 <source>Move down</source>
-<target>Move down</target>
+<target>انتقال به پایین</target>
 
 <source>File list exported</source>
-<target>File list exported</target>
+<target>از لیست فایل خروجی گرفته شد</target>
 
 <source>Searching for program updates...</source>
-<target>Searching for program updates...</target>
+<target>جستجو برای به روز رسانی برنامه...</target>
 
 <source>FreeFileSync %x is available!</source>
-<target>FreeFileSync %x is available!</target>
+<target>نسخه %x برنامه FreeFileSync منتشر شده است!</target>
 
 <source>Paused</source>
-<target>Paused</target>
+<target>مکث شده</target>
 
 <source>Stop requested...</source>
-<target>Stop requested...</target>
+<target>توقف درخواست شده است...</target>
 
 <source>Initializing...</source>
-<target>Initialising...</target>
+<target>درحال راه اندازی...</target>
 
 <source>Comparing content...</source>
-<target>Comparing content...</target>
+<target>مقایسه محتوا...</target>
 
 <source>&Continue</source>
-<target>&Continue</target>
+<target>&ادامه</target>
 
 <source>Progress</source>
-<target>Progress</target>
+<target>پیشرفت</target>
 
 <source>Installation files are corrupted. Please reinstall FreeFileSync.</source>
-<target>Installation files are corrupted. Please reinstall FreeFileSync.</target>
+<target>فایل نصبی مشکل دارد. لطفا مجددا FreeFileSync را نصب کنید.</target>
 
 <source>My Drive</source>
-<target>My Drive</target>
+<target>درایو من</target>
 
 <source>Connections</source>
-<target>Connections</target>
+<target>اتصالات</target>
 
 <source>Defined by context of use</source>
-<target>Defined by context of use</target>
+<target>با زمینه استفاده تعریف شده است</target>
 
 <source>Recommended range:</source>
-<target>Recommended range:</target>
+<target>محدوده پیشنهادی:</target>
 
 <source>Do you really want to disconnect from user account %x?</source>
-<target>Do you really want to disconnect from user account %x?</target>
+<target>آیا واقعا می‌خواهید اتصال خود را با حساب %x قطع کنید?</target>
 
 <source>Password:</source>
-<target>Password:</target>
+<target>رمز عبور:</target>
 
 <source>Key passphrase:</source>
-<target>Key passphrase:</target>
+<target>عبارت عبور:</target>
 
 <source>Please enter a file path.</source>
-<target>Please enter a file path.</target>
+<target>لطفا یک مسیر فایل وارد کنید.</target>
 
 <source>
 <pluralform>Copy the following item to another folder?</pluralform>
 <pluralform>Copy the following %x items to another folder?</pluralform>
 </source>
 <target>
-<pluralform>Copy the following item to another folder?</pluralform>
-<pluralform>Copy the following %x items to another folder?</pluralform>
+<pluralform>موارد زیر را در پوشه دیگری کپی شوند؟</pluralform>
+<pluralform>تعداد %x مورد به پوشه دیگری کپی شوند؟</pluralform>
 </target>
 
 <source>Please enter a target folder.</source>
-<target>Please enter a target folder.</target>
+<target>لطفا پوشه مورد نظر را وارد کنید.</target>
 
 <source>
 <pluralform>Do you really want to move the following item to the recycle bin?</pluralform>
 <pluralform>Do you really want to move the following %x items to the recycle bin?</pluralform>
 </source>
 <target>
-<pluralform>Do you really want to move the following item to the recycle bin?</pluralform>
-<pluralform>Do you really want to move the following %x items to the recycle bin?</pluralform>
+<pluralform>آیا واقعا می‌خواهید این مورد را به سطل آشغال منتقل کنید؟</pluralform>
+<pluralform>آیا واقعا می‌خواهید %x مورد را به سطل آشغال منتقل کنید؟</pluralform>
 </target>
 
 <source>Move</source>
-<target>Move</target>
+<target>انتقال</target>
 
 <source>
 <pluralform>Do you really want to delete the following item?</pluralform>
 <pluralform>Do you really want to delete the following %x items?</pluralform>
 </source>
 <target>
-<pluralform>Do you really want to delete the following item?</pluralform>
-<pluralform>Do you really want to delete the following %x items?</pluralform>
+<pluralform>آیا واقعا می‌خواهید این مورد را حذف کنید؟</pluralform>
+<pluralform>آیا واقعا می‌خواهید %x مورد را حذف کنید؟</pluralform>
 </target>
 
 <source>Start to synchronize the selection?</source>
-<target>Start to synchronise the selection?</target>
+<target>همگام سازی موارد انتخاب شده شروع شود؟</target>
 
 <source>Start synchronization now?</source>
-<target>Start synchronisation now?</target>
+<target>همگام سازی الان شروع شود؟</target>
 
 <source>Leave progress dialog open after synchronization. (don't auto-close)</source>
 <target>Leave progress dialogue open after synchronisation. (don't auto-close)</target>
@@ -2144,56 +2144,56 @@ This guarantees a consistent state even in case of a serious error.
 <target>Create Explorer context menu entries</target>
 
 <source>Save settings in installation directory</source>
-<target>Save settings in installation directory</target>
+<target>تنظیمات را در مسیر نصب برنامه ذخیره کنید</target>
 
 <source>Do not write to Registry</source>
-<target>Do not write to Registry</target>
+<target>به رجیستری ویندوز اضافه نشود</target>
 
 <source>Just copy the files</source>
-<target>Just copy the files</target>
+<target>فقط فایل‌ها را کپی کن</target>
 
 <source>Create shortcuts:</source>
-<target>Create shortcuts:</target>
+<target>ایجاد میانبرها:</target>
 
 <source>Desktop</source>
-<target>Desktop</target>
+<target>دسکتاپ</target>
 
 <source>Start Menu</source>
-<target>Start Menu</target>
+<target>منو شروع</target>
 
 <source>Send To</source>
-<target>Send To</target>
+<target>ارسال به</target>
 
 <source>Registering FreeFileSync file extensions</source>
-<target>Registering FreeFileSync file extensions</target>
+<target>ثبت افزودنی‌های فایل FreeFileSync</target>
 
 <source>Unregistering FreeFileSync file extensions</source>
-<target>Unregistering FreeFileSync file extensions</target>
+<target>لغو افزودنی‌های فایل FreeFileSync</target>
 
 <source>FreeFileSync Configuration</source>
-<target>FreeFileSync Configuration</target>
+<target>پیکربندی FreeFileSync</target>
 
 <source>FreeFileSync Batch File</source>
-<target>FreeFileSync Batch File</target>
+<target>فایل دسته‌ای FreeFileSync</target>
 
 <source>FreeFileSync Synchronization Database</source>
-<target>FreeFileSync Synchronisation Database</target>
+<target>پایگاه داده FreeFileSync برای همگام سازی</target>
 
 <source>RealTimeSync Configuration</source>
-<target>RealTimeSync Configuration</target>
+<target>تنظیمات RealTimeSync</target>
 
 <source>Edit with FreeFileSync</source>
-<target>Edit with FreeFileSync</target>
+<target>ویرایش با FreeFileSync</target>
 
 <source>If you like FreeFileSync:</source>
-<target>If you like FreeFileSync:</target>
+<target>اگر FreeFileSync را دوست دارید:</target>
 
 <source>Instead of an ad, here's an animal.</source>
-<target>Instead of an ad, here's an animal.</target>
+<target>به جای تبلیغات، عکس یک حیوان زیبا را تماشا کنید.</target>
 
 <source>The FreeFileSync portable version cannot install into a subfolder of %x.</source>
-<target>The FreeFileSync portable version cannot install into a subfolder of %x.</target>
+<target>نسخه قابل حمل FreeFileSync را نمی‌توان در پوشه %x نصب کرد.</target>
 
 <source>Please choose the local installation type or select a different folder for installation.</source>
-<target>Please choose the local installation type or select a different folder for installation.</target>
+<target>لطفاً نوع نصب محلی را انتخاب کنید یا پوشه دیگری را برای نصب انتخاب کنید.</target>
 
